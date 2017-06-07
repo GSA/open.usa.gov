@@ -1,0 +1,67 @@
+body,
+p, ul, ol, li, a  {
+  color: $text-color;
+}
+
+legend, label,
+h1, h2, h3, h4, h5, h6 {
+  color: $headers-color;
+}
+
+.usa-section-dark {
+  legend, label,
+  h1, h2, h3, h4, h5, h6,
+  p {
+    color: $reverse-text-color;
+  }
+}
+
+legend,
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: 20px;
+}
+
+ul, li {
+  margin-bottom: 0;
+}
+
+form {
+  max-width: 100%;
+}
+.usa-section p,
+.usa-section > ul,
+.usa-section > ol,
+.usa-section > h1,
+.usa-section > h2,
+.usa-section > h3,
+.usa-section > h4,
+.usa-section > h5,
+.usa-section > h6 {
+  max-width: 62.5rem;
+}
+
+a {
+  color: $link-color;
+  &:hover {
+    color: $link-hover-color;
+  }
+  &:active {
+    color: $link-active-color;
+  }
+  &:visited {
+    color: $link-visited-color;
+  }
+}
+
+#main:focus {
+  outline: none;
+}
+
+@media (min-width: 600px) {
+  .usa-width-one-whole.usa-section {
+    position: relative;
+    left: 50%;
+    max-width: 62.5rem;
+    margin-left: -31.25rem;
+  }
+}
