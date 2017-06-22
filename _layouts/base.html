@@ -7,9 +7,16 @@
   <div class="usa-overlay"></div>
 
     {% include header.html %}
-      <main id="main" tabindex="-1">
-      {{ content }}
-    </main>
+
+<main id="content" role="main">
+    <div class="container clearfix">
+
+     {{ content }}
+
+    </div>
+
+  </main>
+
     {% include footer.html %}
     {% include javascript.html %}
   </body>

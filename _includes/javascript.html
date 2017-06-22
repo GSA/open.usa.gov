@@ -1,18 +1,3 @@
-<script src="{{ site.baseurl }}/assets/vendor/jquery-3.2.1.min.js"></script>
-<script src="{{ site.baseurl }}/assets/vendor/uswds-{{ site.wds-version }}/js/uswds.min.js"></script>
-<script src="{{ '/assets/js/index.js' | prepend: site.baseurl  }}"></script>
-
-<!--
-  analytics for DAP, for more info visit
-  https://www.digitalgov.gov/services/dap/
--->
-<script src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency={{ site.analytics.dap.agency}}&subagency={{ site.analytics.dap.subagency }}"
-id="_fed_an_ua_tag"></script>
-
-<!--
-  analytics for 18F guild, for more info visited
-  https://github.com/18f/analytics-standards
--->
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -24,3 +9,25 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   ga('set', 'forceSSL', true);
   ga('send', 'pageview');
 </script>
+
+
+    <script type="text/javascript">
+
+    //<![CDATA[
+            var usasearch_config = { siteHandle:"usagov" };
+            var script = document.createElement("script");
+            script.type = "text/javascript";
+            script.src = "https://search.usa.gov/javascripts/remote.loader.js";
+            document.getElementsByTagName("head")[0].appendChild(script);
+    //]]>
+
+    </script>
+
+
+
+<!--
+  analytics for DAP, for more info visit
+  https://www.digitalgov.gov/services/dap/
+-->
+<script src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency={{ site.analytics.dap.agency}}&subagency={{ site.analytics.dap.subagency }}"
+id="_fed_an_ua_tag"></script>

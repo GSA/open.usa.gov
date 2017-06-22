@@ -1,54 +1,44 @@
-<footer class="usa-footer usa-footer-medium" role="contentinfo">
-  {% if site.footer.links %}
-  <div class="usa-footer-primary-section">
-    <div class="usa-grid-full">
-      <nav class="usa-footer-nav">
-        <ul class="usa-unstyled-list">
-        {% for link in site.footer.links %}
-          <li class="usa-width-one-sixth usa-footer-primary-content">
-            <a class="usa-footer-primary-link" href="{{ link.href }}">{{ link.text }}</a>
-          </li>
-        {% endfor %}
-        </ul>
-      </nav>
-    </div>
-  </div>
-  {% endif %}
-  <div class="usa-footer-secondary_section">
-    <div class="usa-grid">
-      <div class="usa-footer-logo usa-width-one-half">
-        {% if site.footer.image %}
-          <img class="usa-footer-logo-img" src="{{ site.footer.image | prepend: site.baseurl }}" alt="Logo image">
-        {% endif %}
-        {% if site.footer.text %}
-          <p>{{ site.footer.text }}</p>
-        {% endif %}
-      </div>
 
-      <div class="usa-footer-contact-links usa-width-one-half">
-          {% if site.footer.contact.twitter %}
-          <a class="usa-link-twitter" href="https://twitter.com/{{ twitter }}"><span>Twitter</span></a>
-          {% endif %}
-          {% if site.footer.contact.facebook %}
-          <a class="usa-link-facebook" href="https://facebook.com/{{ facebook }}"><span>Facebook</span></a>
-          {% endif %}
-          {% if site.footer.contact.youtube %}
-          <a class="usa-link-youtube" href="https://youtube.com/{{ youtube }}"><span>YouTube</span></a>
-          {% endif %}
-          {% if site.footer.contact.rss %}
-          <a class="usa-link-rss" href="{{ rss }}"><span>RSS feed</span></a>
-          {% endif %}
-        <address>
-          {% if site.footer.contact.name %}
-            <h3 class="usa-footer-contact-heading">{{ site.footer.contact.name }}</h3>
-          {% endif %}
-          {% if site.footer.contact.phonenumber %}
-            <p><a href="tel:{{ site.footer.contact.phonenumber }}">{{ site.footer.contact.phonenumber }}</a></p>
-          {% endif %}
-          <p><a href="mailto:{{ site.footer.contact.email }}">{{ site.footer.contact.email }}</a></p>
-        </address>
+<!-- begin footer container -->
+ <footer class="usa-footer usa-footer-big" role="contentinfo">
+  <h2 class="hidden-title">footer</h2>
+   <!-- <div class="usa-grid usa-footer-return-to-top">
+      <a href="#">Return to top</a>
+    </div> -->
 
+    <div class="usa-footer-secondary_section usa-footer-big-secondary-section">
+      <div class="usa-grid">
+        <div class="usa-footer-logo usa-width-one-half">
+          <a href="https://www.usa.gov">
+          <img class="usa-footer-logo-img" src="https://www.usa.gov/sites/all/themes/usa/images/USAGOV.png" alt="USAGov Logo">
+          </a>
+          <!--<h3 class="usa-footer-logo-heading">USAgov</h3>-->
+        </div>
+        <div class="usa-footer-contact-links usa-width-one-half">
+         <ul class="usa-unstyled-list">
+            <li> <a href="https://www.facebook.com/USAgov"><img  class="sm-image" src="https://www.usa.gov/sites/all/themes/usa/images/Icon_Connect_Facebook.png" alt="Facebook"/></a> </li>
+        <li> <a href="https://www.usa.gov/rss"><img class="sm-image" src="https://www.usa.gov/sites/all/themes/usa/images/Icon_Connect_RSS.png" alt="RSS"/></a> </li>
+        <li> <a href="https://www.snapchat.com/add/usagov"><img class="sm-image" src="https://www.usa.gov/sites/all/themes/usa/images/Icon_Connect_Snapchat.png" alt="Snapchat"/></a> </li>
+        <li> <a href="https://twitter.com/USAgov"><img class="sm-image" src="https://www.usa.gov/sites/all/themes/usa/images/Icon_Connect_Twitter.png" alt="Twitter"/></a> </li>
+        <li> <a href="https://www.youtube.com/usagov"><img class="sm-image" src="https://www.usa.gov/sites/all/themes/usa/images/Icon_Connect_Youtube.png" alt="YouTube"></a> </li>
+        <li> <a href="https://www.instagram.com/usagov/"><img class="sm-image" src="https://www.usa.gov/sites/all/themes/usa/images/Icon_Connect_Instragram.png" alt="Instagram"></a> </li>
+         </ul>
+            <h3 class="usa-footer-contact-heading">Ask USAGov a Question</h3>
+            <p><a href="https://www.usa.gov/phone">Call 1-844-USAGOV1 (1-844-872-4681)</a></p>
+            <ul class="usa-unstyled-list noline">
+              <li><a href="https://www.usa.gov/email">Email Us</a></li>
+              <br>
+              <li><a href="https://www.usa.gov/chat">Chat with Us</a></li>
+    </ul>
+        </div>
       </div>
     </div>
-  </div>
-</footer>
+    
+    <div class="footertagline">
+    <!-- <section> -->
+    <div class="tagline clearfix container">
+      <p>Official Guide to Government Information and Services</p>
+      <p class="volver clearfix"><a href="#skiptarget"><span class="icon-backtotop-dwnlvl">Back to Top</span></a></p>
+    </div>
+  </footer>
+<!-- end footer container -->

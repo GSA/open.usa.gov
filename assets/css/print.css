@@ -1,0 +1,54 @@
+.usa-banner, .usa-menu-btn, button.usa-menu-btn, .usa-nav, .usa-nav-inner, div.topic-nav, .hptoggles .engtoggle a, .hptoggles .kidstoggle a .wotp, .mrtp, .shade, .volver, #cntctbx, #pagesurvey-hdr, #pagesurvey-trgt, #pagesurvey-ombnum, .sclmedia, .usa-footer {
+	display: none;
+}
+
+.usa-navbar, .usa-header {
+	border-bottom: none;
+}
+		
+.usa-logo img {
+   /* margin-left: 100%;*/
+	max-width: 250px;
+}
+
+.usa-hero .floating-box-1 a, .usa-whats-new p a, .usa-hero .floating-box-2 p, .usa-hero .floating-box-2 a {
+	color: #000;
+}
+
+@-moz-document url-prefix() {
+    img#logo {
+        margin-left: 45%;
+    }
+
+.engtoggle a {
+    display: none;
+}
+
+.kidstoggle a {
+    display: none;
+}
+
+.volver {
+    display: none;
+}
+
+#pagesurvey-hdr {
+    display: none;
+}
+
+#pagesurvey-trgt {
+    display: none;
+}
+
+#pagesurvey-ombnum {
+    display: none;
+}
+
+.sclmedia {
+    display: none;
+}
+
+footer {
+    display: none;
+}
+

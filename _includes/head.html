@@ -1,31 +1,39 @@
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="google" value="notranslate">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>U.S. Open Government Initiatives &#124; open.USA.gov</title>
 
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
-  <meta name="twitter:title" content="{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}">
-  <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <meta name="twitter:card" content="summary_large_image">
-  {% if site.feature_image %}<meta property="og:image" content="{{ site.feature_image | prepend: site.baseurl | prepend: site.url }}">{% endif %}
-  {% if site.feature_image %}<meta name="twitter:image" content="{{ site.feature_image | prepend: site.baseurl | prepend: site.url }}">{% endif %}
-  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-  <link rel="stylesheet" href="{{ site.baseurl }}/assets/vendor/uswds-{{site.wds-version}}/css/uswds.css">
-  <link rel="stylesheet" href="{{ '/assets/css/main.css' | prepend: site.baseurl }}">
+<link rel="apple-touch-icon-precomposed" href="https://www.usa.gov/sites/all/themes/usa/images/USA_Fav_Icon152_default.png">
+<link rel="icon" sizes="16x16" href="https://www.usa.gov/sites/all/themes/usa/images/USA_Fav_Icon16.ico">
+<link rel="icon" sizes="32x32" href="https://www.usa.gov/sites/all/themes/usa/images/favicon.ico">
+<link rel="icon" sizes="152x152" href="https://www.usa.gov/sites/all/themes/usa/images/USA_Fav_Icon152_default.png">
+  
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/custom.css">
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/print.css" media="print" />
 
-  <link rel="shortcut icon" type="image/x-icon" href="{{ '/assets/img/favicon.ico' | prepend: site.baseurl }}" />
+<style type="text/css" media="all">
+@import url("{{ site.baseurl }}/assets/css/google-fonts.css");
+</style>
 
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
-  <script>
-    if (/^www\./.test(window.location.hostname)) {
-      window.location = window.location.href.replace('www.', '');
-    }
-  </script>
+
+<script type="text/javascript" src="https://standards.usa.gov/assets/js/styleguide.js"></script>
+<script type="text/javascript" src="https://standards.usa.gov/assets/js/vendor/uswds.min.js"></script>
+
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/respond.js"></script>
+
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/platform.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/menu.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/states.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/standardsModifications.js"></script>
+
+<!--[if lt IE 9]>
+  <script src="https://standards.usa.gov/assets/js/vendor/html5shiv.js"></script>
+<![endif]-->
+
+
 </head>

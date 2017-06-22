@@ -2,47 +2,26 @@
 layout: base
 ---
 
-<section>
-  <div class="hero-unit" style="background-image: url('{{ page.hero-image | prepend: site.baseurl }}')">
-    <div class="usa-grid">
-      <div class="usa-width-whole hero-content">
-        <h1>{{ page.hero-text }}</h1>
-        <a class="usa-button" href="{{ page.hero-button-link | prepend: site.baseurl }}">{{ page.hero-button-text }}</a>
-      </div>
-    </div>
-  </div>
-</section>
+<div class="opengov-landing">
 
-<section class="usa-grid usa-section">
-    <h2>Work</h2>
-    {% include projects.html %}
-</section>
+    <article>
 
-{% if page.banner-heading %}
-<section class="usa-section banner tagline">
-  <div class="usa-grid">
-    <div class="usa-width-one-whole usa-end-row">
-      <h2>{{ page.banner-heading }}</h2>
-      {% if page.banner-text %}
-        <p>{{ page.banner-text }}</p>
-      {% endif %}
-      {% if page.banner-button-text %}
-      <div class="center-content">
-        <a href="{{ page.banner-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.banner-button-text }}</a>
-      </div>
-      {% endif %}
-    </div>
-  </div>
-</section>
-{% endif %}
+         <header>
+            <h1>U.S. Open Government Initiatives</h1>            
+        </header>
 
-<section class="usa-grid usa-section">
-  <div class="usa-width-one-whole usa-end-row">
-    {{ content }}
-    {% if page.content-button-link %}
-      <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.content-button-text }}</a>
-    {% endif %}
-  </div>
-</section>
+        <p>Initiatives on openness, transparency and public participation.</p>
 
-{% include contact.html %}
+        <ul>
+          <li>2017-2019 National Action Plan for Open Government </li>
+          <li><a href="{{ site.baseurl }}/assets/files/final_us_open_government_national_action_plan_3_0.pdf">2015-2017 National Action Plan for Open Government</a> / <a href="{{ site.baseurl }}/assets/files/new_nap_commitments_final.pdf">New Commitments</a> / <a href="{{ site.baseurl }}/assets/files/nap_3_self_assessment_final.pdf">Mid-term Self Assessment</a></li>
+          <li><a href="https://petitions.whitehouse.gov">We the People</a> - Petition the White House on the Issues that Matter to You</li>
+          <li><a href="https://www.data.gov">Data.gov</a> - Open data from across the U.S. Government</li>
+          <li><a href="https://beta.usaspending.gov">USAspending.gov</a> - The official source of accessible, searchable and reliable spending data for the U.S. Government</li>
+        </ul>  
+
+    </article>
+
+    <p class="volver clearfix"><a href="#skiptarget"><span class="icon-backtotop-dwnlvl">Back to Top</span></a></p>
+
+</div>
