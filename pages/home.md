@@ -14,7 +14,7 @@ II.  [3rd National Action Plan for Open Government (2015-2017)](/assets/files/fi
 
 III. [2nd National Action Plan for Open Government (2013-2015)](/assets/files/NAP2.pdf) / [Mid-term Self Assessment](/assets/files/NAP2SA-mid.pdf) / [Final Self-Assessment](/assets/files/NAP2SA.pdf) /
 
-IV.  [1st National Action Plan for Open Government (2011-2013)](/assets/files/NAP1.pdf) / [Mid-term Self Assessment](/assets/files/NAP1SA-mid.pdf) / [Final Self-Assessment](/assets/files/NAP1SA.pdf) / 
+IV.  [1st National Action Plan for Open Government (2011-2013)](/assets/files/NAP1.pdf) / [Final Self-Assessment](/assets/files/NAP1SA.pdf) / 
 
 
 ### Exemplary Commitments Achieved in Prior National Action Plans:
