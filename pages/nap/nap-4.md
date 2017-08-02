@@ -8,12 +8,6 @@ redirect_from: "/nap4/"
 
 The purpose of the National Action Plans is to advance transparency, accountability, participation, and/or technological innovation across government. This page is for the co-creation of the fourth National Action Plan between government and civil society. 
 
-Examples of past commitments achieved through the National Action Plan include:
-
-* [We the People](https://petitions.whitehouse.gov): One of the first and most prominent open government commitments, the We the People petitions site has led to major reforms in the United States and has also offered two-way engagement for millions of users.
-* [Data.gov](https://www.data.gov): Opening data to the public has a wide ripple-effect. Data.gov today is home to approximately 200,000 datasets for industry, academic, and other use.
-* [USAspending.gov](https://beta.usaspending.gov): Transforming nearly $4 trillion taxpayer dollars into Open Data, so taxpayers can see the breakdown of where their dollars go in government.
-
 You can learn more about U.S. Open Government Initiatives at [open.usa.gov](https://open.usa.gov).
 
 The fourth National Action Plan is scheduled to be released in October 2017 with the list of US commitments to advance transparency, accountability, participation, and/or technological innovation across government. This is your opportunity to suggest and/or comment on framework and ideas presented below. 
