@@ -17,7 +17,8 @@ III. [Second National Action Plan for Open Government (2013-2015)](/assets/files
 IV.  [First National Action Plan for Open Government (2011-2013)](/assets/files/NAP1.pdf) / [Final Self-Assessment](/assets/files/NAP1SA.pdf) / 
 
 
-### Example Commitments from Prior U.S. National Action Plans:
-* [We the People](https://petitions.whitehouse.gov) - Official U.S. government site permitting the public to petition the White House on issues of your choosing
-* [Data.gov](https://www.data.gov) - Official repository site housing open data from across the U.S. Government
-* [USAspending.gov](https://beta.usaspending.gov) - The official repository housing spending data from across the U.S. Government
+### Examples of past commitments achieved through the National Action Plan include:
+
+* [We the People](https://petitions.whitehouse.gov): One of the first and most prominent open government commitments, the We the People petitions site has led to major reforms in the United States and has also offered two-way engagement for millions of users.
+* [Data.gov](https://www.data.gov): Opening data to the public has a wide ripple-effect. Data.gov today is home to approximately 200,000 datasets for industry, academic, and other use.
+* [USAspending.gov](https://beta.usaspending.gov): Transforming nearly $4 trillion taxpayer dollars into Open Data, so taxpayers can see the breakdown of where their dollars go in government.
