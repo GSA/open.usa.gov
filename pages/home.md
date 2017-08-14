@@ -8,13 +8,13 @@ permalink: /
 This site outlines initiatives on openness, transparency and public participation, pursuant to the U.S. National Action Plans. 
 
 ### Past and Current U.S. National Action Plans:
-I.   Fourth National Action Plan (NAP 4) for Open Government (2017-2019) / In Drafting / Participate in the co-creation of NAP 4 *(coming soon)*
+* Fourth National Action Plan (NAP 4) for Open Government (2017-2019) / In Drafting / Participate in the co-creation of NAP 4 *(coming soon)*
 
-II.  [Third National Action Plan for Open Government (2015-2017)](/assets/files/final_us_open_government_national_action_plan_3_0.pdf) / [New Commitments](/assets/files/new_nap_commitments_final.pdf) / [Mid-term Self Assessment](/assets/files/nap_3_self_assessment_final.pdf)
+* [Third National Action Plan for Open Government (2015-2017)](/assets/files/final_us_open_government_national_action_plan_3_0.pdf) / [New Commitments](/assets/files/new_nap_commitments_final.pdf) / [Mid-term Self Assessment](/assets/files/nap_3_self_assessment_final.pdf)
 
-III. [Second National Action Plan for Open Government (2013-2015)](/assets/files/NAP2.pdf) / [Mid-term Self Assessment](/assets/files/NAP2SA-mid.pdf) / [Final Self-Assessment](/assets/files/NAP2SA.pdf)
+* [Second National Action Plan for Open Government (2013-2015)](/assets/files/NAP2.pdf) / [Mid-term Self Assessment](/assets/files/NAP2SA-mid.pdf) / [Final Self-Assessment](/assets/files/NAP2SA.pdf)
 
-IV.  [First National Action Plan for Open Government (2011-2013)](/assets/files/NAP1.pdf) / [Final Self-Assessment](/assets/files/NAP1SA.pdf) / 
+* [First National Action Plan for Open Government (2011-2013)](/assets/files/NAP1.pdf) / [Final Self-Assessment](/assets/files/NAP1SA.pdf) / 
 
 
 ### Examples of past commitments achieved through the National Action Plan include:
