@@ -28,7 +28,7 @@ The fourth U.S. Open Government National Action Plan and the third National Acti
 ### Guidance for Commitments
 Thank you for your thoughts and contributions as we co-create the United States' fourth National Action Plan (NAP 4). This year marks an important transition for U.S. commitments to open government, as we move from the broader initial set of initiatives and activities that have characterized our NAPs in the past, to a more streamlined, impactful, and elevated set of commitments. We encourage our Federal agency and civil society partners to work closely together to identify and deepen initiatives that are working, and to develop meaningful and ambitious NAP 4 commitments that reflect a spirit of accountability to U.S. citizens and demonstrate American leadership in promoting transparency and good government.
 
-**Commitments should be achievable by June 2019, they should be new, ambitious, and measureable per the template below.**
+**Commitments should be achievable by June 2019. They should be new, ambitious, and measureable per the template below.**
 
 > **Suggested Title**
 > 
