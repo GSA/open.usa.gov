@@ -46,7 +46,7 @@ Thank you for your thoughts and contributions as we co-create the United States'
 * [Bureaucracy Busting](https://github.com/GSA/participate-nap4/issues/4)
     * [Blockchain: Next-Gen Reporting to Reduce Agency Reporting Burden](https://github.com/GSA/participate-nap4/issues/1)
     * [Open Policy to Iterate with Public Stakeholders](https://github.com/GSA/participate-nap4/issues/2)
-    * [Project Cruft to Streamline and Rescind Outdated Policy](https://github.com/GSA/participate-nap4/issues/3)
+    * [Streamline and Rescind Outdated Policy](https://github.com/GSA/participate-nap4/issues/3)
 * [Citizen Government through Two-Way Participation](https://github.com/GSA/participate-nap4/issues/5)
     * [Expand Public Participation in the Development of Regulations](https://github.com/GSA/participate-nap4/issues/6)
     * [Improve FOIA from the Inside Out](https://github.com/GSA/participate-nap4/issues/7)
