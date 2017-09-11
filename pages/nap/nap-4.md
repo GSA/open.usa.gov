@@ -10,7 +10,7 @@ The [U.S. National Action Plans](https://open.usa.gov) advance transparency, acc
 
 This page is to help co-create the fourth U.S. National Action Plan (NAP 4) with input from civil society. This is one opportunity to suggest and/or comment on the NAP 4 framework and ideas presented below. 
 
-Share your NAP 4 feedback by commenting on a GitHub issue below or propose a new commitment by [creating a new issue](https://github.com/GSA/participate-nap4/issues/new). If you do not have a GitHub account, you may [create an account](https://github.com/join) for free. If you prefer not to create an account, you may email suggestions to [nap4@gsa.gov](mailto:nap4@gsa.gov) and your contributions will be posted on your behalf. NAP 4 authors will review and consider all suggestions and feedback through GitHub, email, and in-person meetings although not all suggestions will necessarily receive a written response. Thank you for your suggestions.
+Share your NAP 4 feedback by commenting on a GitHub issue below or propose a new commitment by [creating a new issue](https://github.com/GSA/participate-nap4/issues/new). If you do not have a GitHub account, you may [create an account](https://github.com/join) for free. If you prefer not to create an account, you may email suggestions to [nap4@gsa.gov](mailto:nap4@gsa.gov) and your contributions will be posted on your behalf. NAP 4 authors will review and consider all suggestions and feedback through GitHub, email, and in-person meetings although not all suggestions will necessarily receive a written response. All contributions are governed by our [Public Engagement Guidelines](/about/#public-engagement-guidelines). Thank you for your participation.
 
 ### Timeline
 
