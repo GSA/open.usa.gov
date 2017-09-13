@@ -10,7 +10,9 @@ The [U.S. National Action Plans](https://open.usa.gov) advance transparency, acc
 
 This page is to help co-create the fourth U.S. National Action Plan (NAP 4) with input from civil society. This is one opportunity to suggest and/or comment on the NAP 4 framework and ideas presented below. 
 
-Share your NAP 4 feedback by commenting on a GitHub issue below or propose a new commitment by [creating a new issue](https://github.com/GSA/participate-nap4/issues/new). If you do not have a GitHub account, you may [create an account](https://github.com/join) for free. If you prefer not to create an account, you may email suggestions to [nap4@gsa.gov](mailto:nap4@gsa.gov) and your contributions will be posted on your behalf. NAP 4 authors will review and consider all suggestions and feedback through GitHub, email, and in-person meetings although not all suggestions will necessarily receive a written response. All contributions are governed by our [Public Engagement Guidelines](/about/#public-engagement-guidelines). Thank you for your participation.
+Share your NAP 4 feedback by commenting on a GitHub issue below or propose a new commitment by following the [guidance](#guidance-for-commitments) and [creating a new issue](https://github.com/GSA/participate-nap4/issues/new). If you do not have a GitHub account, you may [create an account](https://github.com/join) for free. If you prefer not to create an account, you may email suggestions to [nap4@gsa.gov](mailto:nap4@gsa.gov) and your contributions will be posted on your behalf. NAP 4 authors will review and consider all suggestions and feedback through GitHub, email, and in-person meetings although not all suggestions will necessarily receive a written response. All contributions are governed by our [Public Engagement Guidelines](/about/#public-engagement-guidelines). Thank you for your participation.
+
+[Browse Suggested Commitments](https://github.com/GSA/participate-nap4/issues){:.usa-button} [Suggest A New Commitment](https://github.com/GSA/participate-nap4/issues/new){:.usa-button}
 
 ### Timeline
 
@@ -21,6 +23,7 @@ Share your NAP 4 feedback by commenting on a GitHub issue below or propose a new
 * Sep 8: NAP 4 co-creation event at GSA with civil society — Emerging Tech and Open Data for a More Open and Accountable Government
 * Sep 15 – Oct 13: Iterate with civil society and agencies, polish and finalize final clearances
 * Sep 22: Final deadline for agencies to submit NAP 4 commitments
+* Sep 23: [National Day of Civic Hacking in DC](https://www.data.gov/event/national-day-civic-hacking/) for NAP 4 co-creation with civil society at the Johns Hopkins Sibley Innovation Hub
 * Oct 2: Open.USA.gov/NAP4 site closes to public feedback
 
 The fourth U.S. Open Government National Action Plan and the third National Action Plan end-of-term report will both be published in October 2017.
@@ -40,8 +43,9 @@ Thank you for your thoughts and contributions as we co-create the United States'
 > 
 > **Measurable Metrics** - *How can we quantify, verify, monitor, and report progress? Work should be completed by June 2019. Timelines encouraged.* 
 
-
 ### U.S. National Action Plan 4.0 DRAFT Framework
+
+See [all submitted commitments, goals, and feedback](https://github.com/GSA/participate-nap4/issues) on GitHub or [submit your own](https://github.com/GSA/participate-nap4/issues/new).
 
 * [Bureaucracy Busting](https://github.com/GSA/participate-nap4/issues/4)
     * [Blockchain: Next-Gen Reporting to Reduce Agency Reporting Burden](https://github.com/GSA/participate-nap4/issues/1)
