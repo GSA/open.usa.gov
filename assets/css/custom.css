@@ -1,3 +1,11 @@
+.usa-nav-primary {
+    display : block;
+}
+
+.usa-nav-primary > li > a {
+    padding: 1.3rem 1.5rem;
+}
+
 .opengov-landing article {
   margin-top : 2em;
 }
