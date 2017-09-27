@@ -24,6 +24,7 @@ Share your NAP 4 feedback by commenting on a GitHub issue below or propose a new
 * Sep 15 – Oct 13: Iterate with civil society and agencies, polish and finalize final clearances
 * Sep 22: Final deadline for agencies to submit NAP 4 commitments
 * Sep 23: [National Day of Civic Hacking in DC](https://www.data.gov/event/national-day-civic-hacking/) for NAP 4 co-creation with civil society at the Johns Hopkins Sibley Innovation Hub
+* Sep 29: Open Government National Action Plan Co-Creation Workshop at NARA Innovation Hub
 * Oct 2: Open.USA.gov/NAP4 site closes to public feedback
 
 The fourth U.S. Open Government National Action Plan and the third National Action Plan end-of-term report will both be published in October 2017.
