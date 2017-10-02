@@ -49,7 +49,7 @@ Thank you for your thoughts and contributions as we co-create the United States'
 See [all submitted commitments, goals, and feedback](https://github.com/GSA/participate-nap4/issues) on GitHub or [submit your own](https://github.com/GSA/participate-nap4/issues/new).
 
 * [Bureaucracy Busting](https://github.com/GSA/participate-nap4/issues/4)
-    * [Blockchain: Next-Gen Reporting to Reduce Agency Reporting Burden](https://github.com/GSA/participate-nap4/issues/1)
+    * [Blockchain: Next-Gen Reporting to Reduce Agency Reporting Burden](https://github.com/GSA/participate-nap4/issues/10)
     * [Open Policy to Iterate with Public Stakeholders](https://github.com/GSA/participate-nap4/issues/2)
     * [Streamline and Rescind Outdated Policy](https://github.com/GSA/participate-nap4/issues/3)
 * [Citizen Government through Two-Way Participation](https://github.com/GSA/participate-nap4/issues/5)
