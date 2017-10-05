@@ -12,7 +12,7 @@ This page is to help co-create the fourth U.S. National Action Plan (NAP 4) with
 
 Share your NAP 4 feedback by commenting on a GitHub issue below or propose a new commitment by following the [guidance](#guidance-for-commitments) and [creating a new issue](https://github.com/GSA/participate-nap4/issues/new). If you do not have a GitHub account, you may [create an account](https://github.com/join) for free. If you prefer not to create an account, you may email suggestions to [nap4@gsa.gov](mailto:nap4@gsa.gov) and your contributions will be posted on your behalf. NAP 4 authors will review and consider all suggestions and feedback through GitHub, email, and in-person meetings although not all suggestions will necessarily receive a written response. All contributions are governed by our [Public Engagement Guidelines](/about/#public-engagement-guidelines). Thank you for your participation.
 
-[Browse Suggested Commitments](https://github.com/GSA/participate-nap4/issues){:.usa-button} [Suggest A New Commitment](https://github.com/GSA/participate-nap4/issues/new){:.usa-button}
+[Browse Suggested Commitments](https://github.com/GSA/participate-nap4/issues){:.usa-button} 
 
 ### Timeline
 
@@ -46,7 +46,7 @@ Thank you for your thoughts and contributions as we co-create the United States'
 
 ### U.S. National Action Plan 4.0 DRAFT Framework
 
-See [all submitted commitments, goals, and feedback](https://github.com/GSA/participate-nap4/issues) on GitHub or [submit your own](https://github.com/GSA/participate-nap4/issues/new).
+See [all submitted commitments, goals, and feedback](https://github.com/GSA/participate-nap4/issues) on GitHub.
 
 * [Bureaucracy Busting](https://github.com/GSA/participate-nap4/issues/4)
     * [Blockchain: Next-Gen Reporting to Reduce Agency Reporting Burden](https://github.com/GSA/participate-nap4/issues/10)
