@@ -7,7 +7,7 @@ permalink: /
 
 This site outlines initiatives on openness, transparency and public participation, pursuant to the U.S. National Action Plans. 
 
-[Register for the 4th National Action Plan Co-Creation Workshops](https://nap4workshop.eventbrite.com){:.usa-button}
+[Register for the 4th National Action Plan Co-Creation Workshops](https://nap4workshop.eventbrite.com){:.usa-button} [Contribute to the National Action Plan](/national-action-plan/4/){:.usa-button}
 
 ### Past and Current U.S. National Action Plans:
 * Fourth National Action Plan (NAP 4) for Open Government (2017-2019) / In Drafting - [Expected August 2018](/national-action-plan/4/delay-letter) / [Public participation](/national-action-plan/4/) 
