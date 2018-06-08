@@ -54,7 +54,7 @@ In light of our goal, we encourage our civil society and Federal agency partners
 * *Ensure we can quantify, verify, monitor, and report progress*
 * *Provide timelines when possible as work should be completed by August 2020*
  
-You can find all submitted commitments, goals, and [on GitHub](https://github.com/GSA/participate-nap4/issues).
+You can find all submitted commitments, goals, and feedback [on GitHub](https://github.com/GSA/participate-nap4/issues).
 
 [Browse Suggested Commitments](https://github.com/GSA/participate-nap4/issues){:.usa-button} 
 
