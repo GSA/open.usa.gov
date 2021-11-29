@@ -2,7 +2,7 @@
 layout: home
 title: Public Meetings
 body-class: about
-permalink: /meeting/november-2021-public-meeting
+permalink: /meeting/november-2021-public-meeting/
 ---
 
 ### November 2021 Virtual Public Meeting for the US Open Government National Action Plan
