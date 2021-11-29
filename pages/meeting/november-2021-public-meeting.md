@@ -12,7 +12,7 @@ permalink: /meeting/november-2021-public-meeting/
 
 ### Agenda
 
-* **Welcome & NAP Updates from the White House and GSA** - Justin Vail, White House DPC; Denice Ross, White House OSTP; Phil Ashlock, GSA
+* **Welcome & NAP Updates from the White House and GSA** - Justin Vail, White House DPC; Denice Ross, White House OSTP; Waldo Jaquith and Phil Ashlock, GSA
 * **Project Highlight: Challenge.gov** - Jarah Meador, GSA
 * **Recommendations from Civil Society**: a summary of “Seize the Moment: Reviving the U.S. OGP Process with the new Biden Administration” - Nada Zohdy, Global Integrity
 * **Q&A**
