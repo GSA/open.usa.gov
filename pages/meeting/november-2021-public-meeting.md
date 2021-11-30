@@ -8,7 +8,7 @@ permalink: /meeting/november-2021-public-meeting/
 ### November 2021 Virtual Public Meeting for the US Open Government National Action Plan
 
 * Tuesday, November 30 / 3:00 - 4:30 pm ET
-* [Link to Join Virtual Meeting (Zoom)](https://gsa.zoomgov.com/meeting/register/vJIsceCsrDMsH0MtDHM8nC2YFC-Qmr2Cs1o)
+* [Link to Register and Join Virtual Meeting (Zoom)](https://gsa.zoomgov.com/meeting/register/vJIsceCsrDMsH0MtDHM8nC2YFC-Qmr2Cs1o)
 
 ### Agenda
 
