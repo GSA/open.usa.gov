@@ -17,5 +17,5 @@ permalink: /meeting/november-2021-public-meeting/
 * **Recommendations from Civil Society**: a summary of “Seize the Moment: Reviving the U.S. OGP Process with the new Biden Administration” - Nada Zohdy, Global Integrity
 * **Q&A**
 * **Project Highlight: The Opportunity Project** - Drew Zachary & Anna Valuev, Census
-* **Case Study: The Canadian Perspective on an Open Government Multi-Stakeholder Forum**: Melanie Roberts, Government of Canada with Michael Lenczner, Civil Society Co-Chair
+* **Case Study: The Canadian Perspective on an Open Government Multi-Stakeholder Forum**: Mélanie Robert, Government of Canada with Michael Lenczner, Civil Society Co-Chair
 * **Next Steps and Open Q&A**
