@@ -8,7 +8,7 @@ permalink: /meeting/april-2022-public-meeting/
 ### April 12, 2022 Virtual Public Meeting for the US Open Government National Action Plan
 
 * Tuesday, April 12 / 3:00 - 4:30 pm ET
-* [Meeting Registration (Zoom)](https://gsa.zoomgov.com/meeting/register/vJItdOysqDwiHHfPET_GmXkA_6ypO9CiSXo)
+* [Meeting slides (PDF)](/assets/files/2022-04-12-open-gov-public-meeting-slides.pdf)
 
 
 ### Agenda
@@ -24,5 +24,10 @@ This will be a follow-up to the [November 2021 meeting](/meeting/november-2021-p
 * Next steps on the NAP co-creation process
 * Q&A
 
+Join the [Open Government Mailing List](https://groups.google.com/g/us-open-government) for updates. 
 
-A recording of the meeting will be posted afterwards. Check back here or join the [Open Government Mailing List](https://groups.google.com/g/us-open-government) for updates. 
+## Recording of the Meeting
+
+<div class="video-container" style="margin-bottom: 5em">
+<iframe src="https://www.youtube.com/embed/eyveE12Sd80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
