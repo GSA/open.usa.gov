@@ -19,7 +19,7 @@ The co-creation process will be divided into five separate phases beginning with
 * **June 2022 - Shaping:** The shaping phase will help organize the initial input into more logical structures with clear problem statements, proposed solutions, and overarching themes. 
 * **July 2022 - Drafting:** The drafting phase will involve thematic workshops that bring together stakeholders focused on specific topic areas to begin drafting commitments.
 * **August 2022 - Reviewing:** The reviewing phase will include consultative sessions with opportunities for feedback and revisions on the first draft of commitments.
-* **September-October 2022 - Finalization:** The final phase will support the final comments and clearance process necessary to publish the plan and communications to announce the plan.
+* **September-November 2022 - Finalization:** The final phase will support the final comments and clearance process necessary to publish the plan and communications to announce the plan.
 
 
 ### Considerations for Selecting Commitments
