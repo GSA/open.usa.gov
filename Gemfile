@@ -11,3 +11,4 @@ gem "jekyll", "~> 3.8"
 gem "html-proofer", "~> 3.10"
 
 gem "kramdown-parser-gfm"
+gem "webrick", "~> 1.7"
