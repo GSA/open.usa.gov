@@ -7,6 +7,10 @@ permalink: /
 
 This site outlines initiatives on openness, transparency and public participation, pursuant to the U.S. National Action Plans. 
 
+### Public Meetings
+* [May 19, 2022 - 3pm ET](/meeting/may-2022-public-meeting/)
+
+
 ### Current and Past U.S. National Action Plans:
 * [Fifth National Action Plan for Open Government (2022-2024)](/national-action-plan/co-creation/)
 

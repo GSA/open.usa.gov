@@ -15,4 +15,10 @@ permalink: /meeting/may-2022-public-meeting/
 
 This will be a follow-up to the [April 2022 meeting](/meeting/april-2022-public-meeting/) with opportunity for public input and actionable steps toward co-creating the 5th US National Action Plan for Open Government. The meeting will provide further details on how to provide input as part of the first phase of the [co-creation plan](/national-action-plan/co-creation/). 
 
-Additional details and a full agenda will be provided in the near future. Check back here or join the [Open Government Mailing List](https://groups.google.com/g/us-open-government) for updates. 
+* Welcome and introductions (White House and GSA)
+* Details on participating in the new US Open Government National Action Plan [co-creation process](/national-action-plan/co-creation/) (GSA)
+* Civil society voices: Blueprint for Accountability (Lisa Rosenberg, Open The Government)
+* Q&A
+
+Join the [Open Government Mailing List](https://groups.google.com/g/us-open-government) for updates. 
+
