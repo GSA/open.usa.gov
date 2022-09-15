@@ -6,7 +6,7 @@ permalink: /national-action-plan/co-creation/outreach/
 ---
 
 
-### May 2022 - Outreach
+### Outreach
 
 The initial outreach and idea generation phase of the [co-creation process](/national-action-plan/co-creation/) will involve proactive efforts to identify and include civil society organizations and an inclusive and diverse community of voices. This will also include research to capture existing compilations of recommendations and prior recommendations which remain relevant. This will be the first opportunity to begin to provide ideas and problem statements that can help form the basis of commitments in the new plan. 
 
