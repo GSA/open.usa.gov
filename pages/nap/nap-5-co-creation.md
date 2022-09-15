@@ -14,13 +14,19 @@ The co-creation process will span roughly five months from May 2022 to September
 ### Timeline and Phases of Co-Creation
 The co-creation process will be divided into five separate phases beginning with a broad effort to capture ideas and problem statements, then refining the input into thematic areas, and ultimately developing draft and final commitments. These phases are outlined in the schedule below. Additional details and resources will be provided here at the beginning of each phase. 
 
+**May - September 2022**
 
-* **[May 2022 - Outreach](./outreach/):** The initial outreach and idea generation phase will involve proactive efforts to identify and include civil society organizations and an inclusive and diverse community of voices. This will also include research to capture existing compilations of recommendations and prior recommendations which remain relevant. This will be the first opportunity to begin to provide ideas and problem statements that can help form the basis of commitments in the new plan. Two weeks after the co-creation plan is published, an online form will be made available here to solicit ideas. This will be discussed in more detail during the [May 19th public meeting](/meeting/may-2022-public-meeting/) and also updated on the [Outreach page](./outreach/). 
-* **June 2022 - Shaping:** The shaping phase will help organize the initial input into more logical structures with clear problem statements, proposed solutions, and overarching themes. 
-* **July 2022 - Drafting:** The drafting phase will involve thematic workshops that bring together stakeholders focused on specific topic areas to begin drafting commitments.
-* **August 2022 - Reviewing:** The reviewing phase will include consultative sessions with opportunities for feedback and revisions on the first draft of commitments.
-* **September-November 2022 - Finalization:** The final phase will support the final comments and clearance process necessary to publish the plan and communications to announce the plan.
+* **[Outreach](./outreach/):** The initial outreach and idea generation phase will involve proactive efforts to identify and include civil society organizations and an inclusive and diverse community of voices. This will also include research to capture existing compilations of recommendations and prior recommendations which remain relevant. This will be the first opportunity to begin to provide ideas and problem statements that can help form the basis of commitments in the new plan. Two weeks after the co-creation plan is published, an online form will be made available here to solicit ideas. This will be discussed in more detail during the [May 19th public meeting](/meeting/may-2022-public-meeting/) and also updated on the [Outreach page](./outreach/). 
+* **Shaping:** The shaping phase will help organize the initial input into more logical structures with clear problem statements, proposed solutions, and overarching themes. 
 
+**September - December 2022**
+
+* **Drafting:** The drafting phase will involve thematic workshops that bring together stakeholders focused on specific topic areas to begin drafting commitments.
+* **Reviewing:** The reviewing phase will include consultative sessions with opportunities for feedback and revisions on the first draft of commitments.
+* **Finalization:** The final phase will support the final comments and clearance process necessary to publish the plan and communications to announce the plan.
+
+
+*Note: The months denoted in this timeline were changed in September to reflect an updated schedule.*
 
 ### Considerations for Selecting Commitments
 
