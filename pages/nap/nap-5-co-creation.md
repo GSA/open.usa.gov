@@ -9,7 +9,7 @@ The U.S. Government is co-creating the fifth National Action Plan for Open Gover
 
 The plan for co-creation described here is meant to establish an inclusive process for engaging with all stakeholders across civil society, government agencies, and the broader American public to develop a new National Action Plan that furthers the principles of open government in an ambitious yet practical way. 
 
-The co-creation process will span roughly five months from May 2022 to September 2022. Once published, the implementation period for this action plan will align with a two year calendar cycle shared by other Open Government Partnership members which will conclude on December 31st, 2024. 
+The co-creation process will span from May 2022 to December 2022. Once published, the implementation period for this action plan will align with a two year calendar cycle shared by other Open Government Partnership members which will conclude on December 31st, 2024. 
 
 ### Timeline and Phases of Co-Creation
 The co-creation process will be divided into five separate phases beginning with a broad effort to capture ideas and problem statements, then refining the input into thematic areas, and ultimately developing draft and final commitments. These phases are outlined in the schedule below. Additional details and resources will be provided here at the beginning of each phase. 
