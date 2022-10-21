@@ -11,8 +11,8 @@ This site outlines initiatives on openness, transparency and public participatio
 * [Suggest ideas, research, and communities](/national-action-plan/co-creation/outreach/) to support [co-creation](/national-action-plan/co-creation/) in developing the new U.S. National Action Plan for Open Government.
 
 
-### Public Meetings
-* [May 19, 2022 - 3pm ET](/meeting/may-2022-public-meeting/)
+### Public Engagement
+* [October 27th & October 28th 2022](/meeting/october-2022-public-engagement/)
 
 
 ### Current and Past U.S. National Action Plans:
@@ -27,7 +27,7 @@ This site outlines initiatives on openness, transparency and public participatio
 * [First National Action Plan for Open Government (2011-2013)](/assets/files/NAP1.pdf) / [Final Self-Assessment](/assets/files/NAP1SA.pdf) / 
 
 
-### Committment Highlight: Open Science Through Open Data
+### Commitment Highlight: Open Science Through Open Data
 
 More than 2.4 million articles reporting on US government funded research have been made freely accessible to the public. They are used by millions of people every day — scientists, innovators, students and educators, and the general public who want to understand how to solve problems of immediate interest, like COVID-19 and climate change. Making results of government-funded research freely and publicly accessible democratizes knowledge and builds public trust in science and decisions based on it.
 
