@@ -28,8 +28,19 @@ permalink: /meeting/november-2021-public-meeting/
 <iframe src="https://www.youtube.com/embed/O5k4Hs1U9vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
+## OGP Summit: U.S. President Joe Biden Addresses the 2021 OGP Global Summit
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/C1PfDnmxWxg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## OGP Summit Government Statement: United States, GSA Administrator Robin Carnahan
 
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/L0MPdP9O2Ww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+
+
+
