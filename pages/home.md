@@ -8,7 +8,7 @@ permalink: /
 This site outlines initiatives on openness, transparency and public participation, pursuant to the U.S. National Action Plans. 
 
 ### Provide Your Input
-* [Suggest ideas, research, and communities](/national-action-plan/co-creation/outreach/) to support [co-creation](/national-action-plan/co-creation/) in developing the new U.S. National Action Plan for Open Government.
+* Submit [draft commitments](/national-action-plan/co-creation/commitment-recommendations/) or describe [problem statements, research, and communities](/national-action-plan/co-creation/outreach/) to support [co-creation](/national-action-plan/co-creation/) in developing the new U.S. National Action Plan for Open Government.
 
 
 ### Public Engagement

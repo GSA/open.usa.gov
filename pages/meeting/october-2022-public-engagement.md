@@ -31,7 +31,7 @@ We are inviting up to two representatives per organization to join these session
 
 Please feel free to share this invitation broadly with other partners you might work with. We also encourage written feedback you might have for the National Action Plan to be shared by email to [opengov@ostp.eop.gov](mailto:opengov@ostp.eop.gov).
 
-This is a closed press event and following past sessions we will follow Chatham House rules. While we encourage attendees to share their individual perspective and feedback, we will not be seeking consensus recommendations at the events. 
+This event will follow Chatham House rules, so that all participants feel comfortable sharing candid opinions, feedback, and suggestions. While we encourage attendees to share their individual perspective and feedback, we will not be seeking consensus recommendations at the events. 
 
 We appreciate your collaboration in this process and we are looking forward to hearing your feedback. Please do not hesitate to reach out with any ideas, reactions, or questions you might have.
 
