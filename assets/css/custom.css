@@ -68,6 +68,11 @@ h2 {
     font-size : 1.5rem;
 }
 
+.open-usa-feedback #fba-modal-dialog .usa-label {
+    font-size : 1.75rem;
+}
+
+
 .open-usa-feedback #fba-modal-dialog .usa-textarea {
     max-width : none;
     height : 25rem;
@@ -85,6 +90,9 @@ h2 {
     background-color : #fff;
 }
 
+.open-usa-feedback #fba-modal-dialog .usa-radio__input--tile+.usa-radio__label:hover {
+    background-color : #e6e6e6;
+}
 
 .open-usa-feedback #fba-modal-dialog .usa-banner__header-flag {
     font-size : 1.5rem;
@@ -107,4 +115,5 @@ h2 {
 
 .open-usa-feedback #fba-modal-dialog .usa-button {
     font-size : inherit;
+    padding : 1.5rem 4rem;
 }
