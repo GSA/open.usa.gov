@@ -47,3 +47,73 @@ h2 {
     width: 100%;
     height: 100%;
 }
+
+.open-usa-feedback #fba-modal-dialog {
+    margin:  0;
+    max-width:  none;
+    background-color: #f0f0f0;
+    border-color : #ccc;
+}
+
+.open-usa-feedback h2.fba-modal-title {
+    margin-top :0;
+}
+
+.open-usa-feedback #fba-modal-dialog .usa-fieldset, 
+.open-usa-feedback #fba-modal-dialog .usa-hint, 
+.open-usa-feedback #fba-modal-dialog .usa-select, 
+.open-usa-feedback #fba-modal-dialog .usa-range, 
+.open-usa-feedback #fba-modal-dialog .usa-input, 
+.open-usa-feedback #fba-modal-dialog .usa-textarea {
+    font-size : 1.5rem;
+}
+
+.open-usa-feedback #fba-modal-dialog .usa-label {
+    font-size : 1.75rem;
+}
+
+
+.open-usa-feedback #fba-modal-dialog .usa-textarea {
+    max-width : none;
+    height : 25rem;
+}
+
+.open-usa-feedback #fba-modal-dialog .usa-character-count__message {
+    padding-bottom : 2rem;
+}
+
+#question_option_20117 label.usa-input__label {
+    margin-top : 2rem;
+}
+
+.open-usa-feedback #fba-modal-dialog .usa-radio__input--tile+.usa-radio__label {
+    background-color : #fff;
+}
+
+.open-usa-feedback #fba-modal-dialog .usa-radio__input--tile+.usa-radio__label:hover {
+    background-color : #e6e6e6;
+}
+
+.open-usa-feedback #fba-modal-dialog .usa-banner__header-flag {
+    font-size : 1.5rem;
+}
+
+.open-usa-feedback #fba-modal-dialog .usa-banner__header-text {
+    font-size : 1.25rem;
+}
+
+.open-usa-feedback #fba-modal-dialog .usa-banner__inner {
+    margin-left : 0;
+}
+
+.open-usa-feedback #fba-modal-dialog .usa-input {
+    height : inherit;
+    font-size : 1.5rem;
+    padding : 1rem;
+    max-width : 46rem;
+}
+
+.open-usa-feedback #fba-modal-dialog .usa-button {
+    font-size : inherit;
+    padding : 1.5rem 4rem;
+}

@@ -13,4 +13,4 @@ Recommendations can also be sent by email to [opengov@ostp.eop.gov](mailto:openg
 
 
 <script src="https://touchpoints.app.cloud.gov/touchpoints/73c86663.js" async></script>
-<div id="action-plan-feedback-commitment-recommendation"></div>
+<div id="action-plan-feedback-commitment-recommendation" class="open-usa-feedback"></div>

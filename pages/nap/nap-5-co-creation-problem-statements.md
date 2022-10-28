@@ -13,4 +13,4 @@ Public input for the [co-creation](../) [outreach phase](../outreach/) is divide
 
 
 <script src="https://touchpoints.app.cloud.gov/touchpoints/1d206010.js" async></script>
-<div id="action-plan-feedback-problem-statements"></div>
+<div id="action-plan-feedback-problem-statements" class="open-usa-feedback"></div>
