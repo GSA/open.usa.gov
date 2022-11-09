@@ -12,8 +12,9 @@ This site outlines initiatives on openness, transparency and public participatio
 
 
 ### Public Engagement
+* [November 17th 2022 - Opening the Federal Regulatory Process to More Voices
+](/meeting/november-2022-public-engagement-opening-the-federal-regulatory-process-to-more-voices/)
 * [October 27th & October 28th 2022](/meeting/october-2022-public-engagement/)
-
 
 ### Current and Past U.S. National Action Plans:
 * [Fifth National Action Plan for Open Government (2022-2024)](/national-action-plan/co-creation/)
