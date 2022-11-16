@@ -8,7 +8,7 @@ permalink: /meeting/november-2022-public-engagement-opening-the-federal-regulato
 
 ### November 17th 2022 Virtual Public Engagement Session for the US Open Government National Action Plan
 
-* Thursday, November 17th 12pm – 1pm ET - [Register for Zoom teleconference](https://gsa.zoomgov.com/meeting/register/vJIsf-CrrTwvGxruUTAkcqjjNOLVTnQYKj0)
+* Thursday, November 17th 12pm – 1:30pm ET - [Register for Zoom teleconference](https://gsa.zoomgov.com/meeting/register/vJIsf-CrrTwvGxruUTAkcqjjNOLVTnQYKj0)
 
 ### Invitation
 
