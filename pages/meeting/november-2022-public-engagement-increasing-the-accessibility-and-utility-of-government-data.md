@@ -33,8 +33,8 @@ We hope that you can join us with members of the public to build on these sugges
 
 ### Details
 
-* You can RSVP for the virtual engagement session [here](https://gsa.zoomgov.com/meeting/register/vJIsc-6hrjssGAmXbjc57QgTGOfmBgPOPkk).
-* You can also read more about this engagement session at our blog post [here](https://www.whitehouse.gov/ostp/news-updates/blogs/).
+* You can [RSVP for the virtual engagement session here](https://gsa.zoomgov.com/meeting/register/vJIsc-6hrjssGAmXbjc57QgTGOfmBgPOPkk).
+* You can also read more about this engagement session at our [WhiteHouse.gov blog post here](https://www.whitehouse.gov/ostp/news-updates/blogs/).
 * We also encourage you to share written ideas, material, or questions to [opengov@ostp.eop.gov](mailto:opengov@ostp.eop.gov).
 
 Thank you for your consideration and the important work that you do to advance a more open, equitable, and accountable government. Please feel free to share this invitation broadly with other partners you might work with.
