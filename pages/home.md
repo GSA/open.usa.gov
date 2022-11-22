@@ -12,6 +12,7 @@ This site outlines initiatives on openness, transparency and public participatio
 
 
 ### Public Engagement
+* [November 29th 2022 – Open Government Engagement Session on Increasing Federal Data Access and Utility](/meeting/november-2022-public-engagement-increasing-the-accessibility-and-utility-of-government-data/)
 * [November 17th 2022 - Opening the Federal Regulatory Process to More Voices
 ](/meeting/november-2022-public-engagement-opening-the-federal-regulatory-process-to-more-voices/)
 * [October 27th & October 28th 2022](/meeting/october-2022-public-engagement/)
