@@ -8,7 +8,7 @@ permalink: /
 This site outlines initiatives on openness, transparency and public participation, pursuant to the U.S. National Action Plans. 
 
 ### Provide Your Input
-* [Read a summary of feedback](/national-action-plan/co-creation/reasoned-response/) we’ve received from the public and commitments we’re exploring including in the National Action Plan—and submit your feedback
+* [Read a summary of feedback](/national-action-plan/co-creation/making-government-more-inclusive-and-responsive/) we’ve received from the public and commitments we’re exploring including in the National Action Plan—and submit your feedback
 
 
 ### Public Engagement

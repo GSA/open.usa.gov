@@ -2,7 +2,7 @@
 layout: home
 body-class: nap4
 title: "Making Government More Inclusive and Responsive: What We Heard—and What We’re Exploring"
-permalink: /national-action-plan/co-creation/reasoned-response/
+permalink: /national-action-plan/co-creation/making-government-more-inclusive-and-responsive/
 ---
 
 Over the past year, we’ve invited members of the public to share ideas about how the Federal Government can be more inclusive and responsive—including in the ways Federal agencies can [develop regulations](https://www.whitehouse.gov/omb/briefing-room/2022/11/07/opening-the-federal-regulatory-process-to-more-voices-oira-to-hold-open-government-engagement-session-this-month/) and [share data](https://www.whitehouse.gov/ostp/news-updates/2022/09/06/advancing-equity-with-community-data-partnerships-we-need-to-hear-from-you/) to create more equitable policies. We’ve reviewed hundreds of responses to our public Requests for Information, and discussed commitments with hundreds of individual members of the public, small businesses, and civic organizations that have attended our public engagement sessions. 
