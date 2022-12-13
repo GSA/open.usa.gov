@@ -8,7 +8,7 @@ permalink: /
 This site outlines initiatives on openness, transparency and public participation, pursuant to the U.S. National Action Plans. 
 
 ### Provide Your Input
-* Read our [Reasoned Response](/assets/files/Reasoned-Response-Fifth-US-Open-Government-National-Action-Plan.pdf) — a discussion about why priorities, ideas, and activities we heard from the public were or were not included in the U.S. National Action Plan — and submit your feedback on the Reasoned Response by Tuesday, December 20th to [opengov@ostp.eop.gov](mailto:opengov@ostp.eop.gov)
+* Read our [Reasoned Response](/assets/files/Reasoned-Response-Fifth-US-Open-Government-National-Action-Plan.pdf) — a discussion about why priorities, ideas, and activities we heard from the public were or were not included in our working draft of the Fifth U.S. National Action Plan — and submit your feedback on the Reasoned Response by Tuesday, December 20th to [opengov@ostp.eop.gov](mailto:opengov@ostp.eop.gov)
 * [Read a summary of feedback](/national-action-plan/co-creation/making-government-more-inclusive-and-responsive/) we’ve received from the public and commitments we’re exploring including in the National Action Plan. The comment period for reactions to this summary concluded on December 9th. 
 
 
