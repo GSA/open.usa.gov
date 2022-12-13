@@ -5,7 +5,7 @@ title: "Fifth U.S. Open Government National Action Plan Reasoned Response"
 permalink: /national-action-plan/reasonsed-response/
 ---
 
-Submit your feedback on this Reasoned Response by **Tuesday, December 20th** to [opengov@ostp.eop.gov](mailto:opengov@ostp.eop.gov)
+Submit your feedback on this Reasoned Response by **Tuesday, December 20th** to [opengov@ostp.eop.gov](mailto:opengov@ostp.eop.gov). Please cite which section of the Reasoned Response each comment addresses by referencing the relevant heading identifier. For example, *"This comment is in reference to B1.2."*
 
 [Download as a PDF](/assets/files/Reasoned-Response-Fifth-US-Open-Government-National-Action-Plan.pdf){:.usa-button} 
 
