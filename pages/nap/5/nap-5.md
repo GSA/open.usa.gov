@@ -46,11 +46,11 @@ In all, our hope for the Fifth Open Government National Action Plan is that this
 
 Drawing on public engagement, including through Executive Order 13985, as well as alignment with Biden-Harris Administration priorities, this plan features commitments across five themes:
 
-- Improve Access to Government Data, Research, and Information
-- Increase Civic Space to Engage the Public
-- Transform Government Service Delivery
-- Counter Corruption and Ensure Government Integrity and Accountability to the Public
-- Ensure Equal Justice Under the Law
+- [Improve Access to Government Data, Research, and Information](#improve-access-to-government-data-research-and-information)
+- [Increase Civic Space to Engage the Public](#increase-civic-space-to-engage-the-public)
+- [Transform Government Service Delivery](#transform-government-service-delivery)
+- [Counter Corruption and Ensure Government Integrity and Accountability to the Public](#counter-corruption-and-ensure-government-integrity-and-accountability-to-the-public)
+- [Ensure Equal Justice Under the Law](#ensure-equal-justice-under-the-law)
 
 ## Improve Access to Government Data, Research, and Information
 
