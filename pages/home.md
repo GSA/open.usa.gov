@@ -7,19 +7,12 @@ permalink: /
 
 This site outlines initiatives on openness, transparency and public participation, pursuant to the U.S. National Action Plans. 
 
-### Provide Your Input
-* Read our [Reasoned Response](/national-action-plan/reasonsed-response/) — a discussion about why priorities, ideas, and activities we heard from the public were or were not included in our working draft of the Fifth U.S. National Action Plan — and submit your feedback on the Reasoned Response by Tuesday, December 20th to [opengov@ostp.eop.gov](mailto:opengov@ostp.eop.gov)
-* [Read a summary of feedback](/national-action-plan/co-creation/making-government-more-inclusive-and-responsive/) we’ve received from the public and commitments we’re exploring including in the National Action Plan. The comment period for reactions to this summary concluded on December 9th. 
-
-
-### Public Engagement
-* [November 29th 2022 – Open Government Engagement Session on Increasing Federal Data Access and Utility](/meeting/november-2022-public-engagement-increasing-the-accessibility-and-utility-of-government-data/)
-* [November 17th 2022 - Opening the Federal Regulatory Process to More Voices
-](/meeting/november-2022-public-engagement-opening-the-federal-regulatory-process-to-more-voices/)
-* [October 27th & October 28th 2022](/meeting/october-2022-public-engagement/)
+### Publication of the Fifth U.S. National Action Plan
+* Read the press release for the Fifth U.S. National Action Plan for Open Government on [WhiteHouse.gov](https://www.whitehouse.gov/)
+* The [Fifth U.S. National Action Plan for Open Government](/national-action-plan/5/) is now available
 
 ### Current and Past U.S. National Action Plans:
-* [Fifth National Action Plan for Open Government (2022-2024)](/national-action-plan/co-creation/)
+* [Fifth National Action Plan for Open Government (2022-2024)](/national-action-plan/5/)
 
 * [Fourth National Action Plan for Open Government (2019-2022)](/assets/files/NAP4-fourth-open-government-national-action-plan.pdf)
 
