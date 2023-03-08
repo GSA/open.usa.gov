@@ -126,3 +126,7 @@ h2 {
     font-size : inherit;
     padding : 1.5rem 4rem;
 }
+
+.open-usa-feedback #fba-modal-dialog .usa-alert {
+    font-size : 1.5rem;
+}
