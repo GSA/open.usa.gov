@@ -7785,7 +7785,7 @@ This applies to Hover as well as Active, Focus, and Expanded states.
 
 @media screen and (min-width: 951px) {
   .usa-logo img {
-    max-width: 250px;
+    max-width: 100px;
     position: relative;
     left: -8px; }
   .usa-header-extended .usa-logo {
@@ -8305,7 +8305,7 @@ a.usa-nav-link {
   .usa-nav-secondary-links li:first-child:after {
     content: ''; }
   .usa-logo img {
-    max-width: 190px; }
+    max-width: 45px; }
   .usa-navbar {
     height: 5rem; }
   .usa-menu-btn {
