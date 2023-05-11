@@ -13,13 +13,11 @@ Since releasing the [Fifth Open Government National Action Plan](../) in Decembe
 
 Registration information for these events will be posted here in the weeks leading up to them. We look forward to collaborating with you.
 
-#### June 2023
-* [Increase Civic Space to Engage the Public](../#increase-civic-space-to-engage-the-public)
-* [Transform Government Service Delivery](../#transform-government-service-delivery)
 
-#### July 2023
-* [Improve Access to Government Data, Research, and Information](../#improve-access-to-government-data-research-and-information)
-
-#### September 2023
-* [Counter Corruption and Ensure Government Integrity and Accountability to the Public](../#counter-corruption-and-ensure-government-integrity-and-accountability-to-the-public)
-* [Ensure Equal Justice Under the Law](../#ensure-equal-justice-under-the-law)
+| Date           | Theme                                                                                                                                                                          | Registration    |
+|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| June 2023      | [Increase Civic Space to Engage the Public](../#increase-civic-space-to-engage-the-public)                                                                                     | To be announced |
+| June 2023      | [Transform Government Service Delivery](../#transform-government-service-delivery)                                                                                             | To be announced |
+| July 2023      | [Improve Access to Government Data, Research, and Information](../#improve-access-to-government-data-research-and-information)                                                 | To be announced |
+| September 2023 | [Counter Corruption and Ensure Government Integrity and Accountability to the Public](../#counter-corruption-and-ensure-government-integrity-and-accountability-to-the-public) | To be announced |
+| September 2023 | [Ensure Equal Justice Under the Law](../#ensure-equal-justice-under-the-law)                                                                                                   | To be announced |
