@@ -14,7 +14,7 @@ Since releasing the [Fifth Open Government National Action Plan](../) in Decembe
 Registration information for these events will be posted here in the weeks leading up to them. We look forward to collaborating with you.
 
 
-| Date           | Theme                                                                                                                                                                          | Registration    |
+| Date           | 5th National Action Plan Theme                                                                                                                                                                          | Registration    |
 |----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
 | June 2023      | [Increase Civic Space to Engage the Public](../#increase-civic-space-to-engage-the-public)                                                                                     | To be announced |
 | June 2023      | [Transform Government Service Delivery](../#transform-government-service-delivery)                                                                                             | To be announced |
