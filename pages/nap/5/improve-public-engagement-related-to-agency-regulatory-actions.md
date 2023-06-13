@@ -13,25 +13,35 @@ _This is a commitment in the [Fifth U.S. Open Government National Action Plan](.
 
 ## Commitment Updates
 
-### May 2023 Listening Session on Regulatory Review Meetings - Part 1
+OIRA organized a public listening event on May 4, 2023, from 1:30-5:00 ET, to hear from members of the public about how we should change our policies regarding 12866 meetings, consistent with the Modernizing Regulatory Review Executive Order.
+
+We recorded this listening session and links are available to recordings below that correspond to each part of the session.
+
+### Welcome and Introduction from the OIRA team; Background on 12866 Meetings and Proposed Changes
 
 <div class="video-container" style="margin-bottom: 5em">
 <iframe src="https://www.youtube.com/embed/AiKBSTj1-ac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### May 2023 Listening Session on Regulatory Review Meetings - Part 2
+### Public Listening Session 1: Expanding Participation in 12866 Meetings
+
+In this session, we invited ideas about how OIRA can support greater participation in the 12866 meeting process, including by members of the public who have not previously used this process.
 
 <div class="video-container" style="margin-bottom: 5em">
 <iframe src="https://www.youtube.com/embed/bLKcnfkTaEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### May 2023 Listening Session on Regulatory Review Meetings - Part 3
+### Public Listening Session 2: Accommodating Increased Demand for 12866 Meetings.
+
+Currently, OIRA is able to accommodate virtually all requests for 12866 meetings. If efforts to expand participation in 12866 meetings are successful, OIRA may not be able to accommodate all requests for meetings in all cases. In this session, we invited ideas about how OIRA should consolidate and/or prioritize meeting requests in a transparent and fair manner.
 
 <div class="video-container" style="margin-bottom: 5em">
 <iframe src="https://www.youtube.com/embed/UgusNRpRWnU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### May 2023 Listening Session on Regulatory Review Meetings - Part 4
+### Public Listening Session 3: Increasing Transparency in 12866 Meetings + General Feedback.
+
+Currently, OIRA releases public data on 12866 meetings, including the identity of meeting requestors and government staff participants. In this session, we invited ideas about additional information OIRA should collect from meeting requestors and release to the public to improve transparency about the 12866 meeting process, as well as other steps to improve accessibility of data on these meetings. We also welcomed general feedback on 12866 meetings in this session.
 
 <div class="video-container" style="margin-bottom: 5em">
 <iframe src="https://www.youtube.com/embed/xwR8wFr5FsM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
