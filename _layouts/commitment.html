@@ -14,6 +14,7 @@ layout: base
 <table>
     <tr>
         <th>ID</th>
+        <th>Agency</th>
         <th>Title</th>
         <th>Status</th>
     </tr>
@@ -22,8 +23,9 @@ layout: base
     {% if commitment.commitment_id == page.commitment_id %}
     <tr>
         <td><a href="{{ site.baseurl | append: commitment.c_permalink }}">{{ commitment.commitment_detail_sub_id }}</a></td>
+        <td>{{ commitment.commitment_agency }}</td>
         <td>{{ commitment.commitment_detail_sub }}</td>        
-        <td>{{ commitment.commitment_status }}</td>
+        <td>{{ commitment.commitment_narrative }}</td>
     </tr>
     {% endif %}
     {% endfor %}
