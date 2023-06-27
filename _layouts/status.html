@@ -20,7 +20,7 @@ layout: base
     {% for commitment in site.commitments %}
     <tr>
         <td>{{ commitment.commitment_theme_name }}</td>
-        <td><a href="{{ commitment.permalink }}">{{ commitment.commitment_id }}</a></td>
+        <td><a href="{{ site.baseurl | append: commitment.permalink }}">{{ commitment.commitment_id }}</a></td>
         <td>{{ commitment.title }}</td>        
         <td>{{ commitment.commitment_status }}</td>
     </tr>
