@@ -1,0 +1,34 @@
+---
+layout: base
+---
+
+<div class="opengov-landing">
+
+    <article>
+
+         <header>
+            <h1>{{ page.title }}</h1>            
+        </header>
+<table>
+    <tr>
+        <th>Theme</th>
+        <th>ID</th>
+        <th>Title</th>
+        <th>Status</th>
+    </tr>
+
+    {% for commitment in site.commitments %}
+    <tr>
+        <td>{{ commitment.commitment_theme_name }}</td>
+        <td><a href="{{ commitment.permalink }}">{{ commitment.commitment_id }}</a></td>
+        <td>{{ commitment.title }}</td>        
+        <td>{{ commitment.commitment_status }}</td>
+    </tr>
+    {% endfor %}
+</table>
+
+    </article>
+
+    <p class="volver clearfix"><a href="#skiptarget"><span class="icon-backtotop-dwnlvl">Back to Top</span></a></p>
+
+</div>
