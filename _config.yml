@@ -37,3 +37,5 @@ exclude:
 collections:
   commitments:
     output: true
+  sub:
+    output: true    

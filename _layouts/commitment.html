@@ -10,7 +10,26 @@ layout: base
             <h1>{{ page.title }}</h1>            
         </header>
 
-    <pre>{{ page.commitment_detail_sub | markdownify }} </pre>
+
+<table>
+    <tr>
+        <th>ID</th>
+        <th>Title</th>
+        <th>Status</th>
+    </tr>
+
+    {% for commitment in site.sub %}
+    {% if commitment.commitment_id == page.commitment_id %}
+    <tr>
+        <td><a href="{{ site.baseurl | append: commitment.c_permalink }}">{{ commitment.commitment_detail_sub_id }}</a></td>
+        <td>{{ commitment.commitment_detail_sub }}</td>        
+        <td>{{ commitment.commitment_status }}</td>
+    </tr>
+    {% endif %}
+    {% endfor %}
+</table>
+
+
 
     </article>
 

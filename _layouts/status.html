@@ -17,10 +17,10 @@ layout: base
         <th>Status</th>
     </tr>
 
-    {% for commitment in site.commitments %}
+    {% for commitment in site.sub %}
     <tr>
         <td>{{ commitment.commitment_theme_name }}</td>
-        <td><a href="{{ site.baseurl | append: commitment.permalink }}">{{ commitment.commitment_id }}</a></td>
+        <td><a href="{{ site.baseurl | append: commitment.c_permalink }}">{{ commitment.commitment_detail_sub_id }}</a></td>
         <td>{{ commitment.title }}</td>        
         <td>{{ commitment.commitment_status }}</td>
     </tr>
