@@ -7,14 +7,31 @@ layout: base
     <article>
 
 
-         <header>            
-            <strong><a href="../">5th National Action Plan</a> > <a href="../#{{ page.commitment_theme_slug }}">{{ page.commitment_theme_name }}</a></strong>
-            <h1>{{ page.title }}</h1>            
+         <header>                        
+            <h1 class="tracker-heading">Fifth U.S. Open Government National Action Plan
+                <br>
+                Commitment Tracker
+            </h1>
+            <div class="tracker-breadcrumb">
+                <a href="{{ site.baseurl }}/national-action-plan/5/status/">View All Commitments</a> | 
+                <a href="{{ site.baseurl }}/national-action-plan/5/status/">View All Commitments for this Theme</a>
+            </div>
+
+            <div class="commitment-pre-heading">Commitment:</div>
+            <h2 class="commitment-heading">{{ page.title }}</h2>   
+
+           <div class="commitment-breadcrumb" >
+                <a href="../">5th National Action Plan</a> | 
+                Theme: <a href="../#{{ page.commitment_theme_slug }}">{{ page.commitment_theme_name }}</a>
+           </div>
+
         </header>
 
 
 <a class="usa-button" href="{{ site.baseurl }}{{ page.commitment_link }}">Full Commitment Text</a>
 <a class="usa-button" href="https://www.opengovpartnership.org/members/united-states/commitments/{{ page.commitment_id }}/">OGP Commitment Page</a>
+
+<p>Progress for this commitment is tracked based on the following sub-commitment(s). You can also view the <a href="{{ site.baseurl }}{{ page.commitment_link }}">full text of this commitment</a>.</p>
 
 
     {% for commitment in site.sub %}

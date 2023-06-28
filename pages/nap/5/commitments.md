@@ -1,7 +1,7 @@
 ---
 layout: status
 body-class: nap4
-title: "Commitment Tracker"
+title: "National Action Plan Commitment Tracker"
 permalink: /national-action-plan/5/status/
 ---
 
