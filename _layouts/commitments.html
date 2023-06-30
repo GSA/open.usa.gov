@@ -11,96 +11,22 @@ layout: base
         </header>
 
 
-<h3><a href="../#improve-access-to-government-data-research-and-information">Improve Access to Government Data, Research, and Information</a></h3>
-<table>
-    <tr>
-        <th>ID</th>
-        <th>Commitment</th>
-    </tr>
+        <h3><a href="../#improve-access-to-government-data-research-and-information">Improve Access to Government Data, Research, and Information</a></h3>
+        <table>
+            <tr>
+                <th>ID</th>
+                <th>Commitment</th>
+            </tr>
 
-    {% for commitment in site.commitments %}
-    {% if commitment.commitment_theme_name == "Improve Access to Government Data, Research, and Information" %}
-    <tr>
-        <td>{{ commitment.commitment_id }}</td>
-        <td><a href="{{ site.baseurl | append: commitment.permalink }}">{{ commitment.title }}</a></td>        
-    </tr>
-    {% endif %}
-    {% endfor %}    
-</table>
-
-
-
-<h3><a href="../#increase-civic-space-to-engage-the-public">Increase Civic Space to Engage the Public</a></h3>
-<table>
-    <tr>
-        <th>ID</th>
-        <th>Commitment</th>
-    </tr>
-
-    {% for commitment in site.commitments %}
-    {% if commitment.commitment_theme_name == "Increase Civic Space to Engage the Public" %}
-    <tr>
-        <td>{{ commitment.commitment_id }}</td>
-        <td><a href="{{ site.baseurl | append: commitment.permalink }}">{{ commitment.title }}</a></td>        
-    </tr>
-    {% endif %}
-    {% endfor %}    
-</table>
-
-
-
-<h3><a href="../#transform-government-service-delivery">Transform Government Service Delivery</a></h3>
-<table>
-    <tr>
-        <th>ID</th>
-        <th>Commitment</th>
-    </tr>
-
-    {% for commitment in site.commitments %}
-    {% if commitment.commitment_theme_name == "Transform Government Service Delivery" %}
-    <tr>
-        <td>{{ commitment.commitment_id }}</td>
-        <td><a href="{{ site.baseurl | append: commitment.permalink }}">{{ commitment.title }}</a></td>        
-    </tr>
-    {% endif %}
-    {% endfor %}    
-</table>
-
-
-<h3><a href="../#counter-corruption-and-ensure-government-integrity-and-accountability-to-the-public">Counter Corruption and Ensure Government Integrity and Accountability to the Public</a></h3>
-<table>
-    <tr>
-        <th>ID</th>
-        <th>Commitment</th>
-    </tr>
-
-    {% for commitment in site.commitments %}
-    {% if commitment.commitment_theme_name == "Counter Corruption and Ensure Government Integrity and Accountability to the Public" %}
-    <tr>
-        <td>{{ commitment.commitment_id }}</td>
-        <td><a href="{{ site.baseurl | append: commitment.permalink }}">{{ commitment.title }}</a></td>        
-    </tr>
-    {% endif %}
-    {% endfor %}    
-</table>
-
-
-<h3><a href="../#ensure-equal-justice-under-the-law">Ensure Equal Justice Under the Law</a></h3>
-<table>
-    <tr>
-        <th>ID</th>
-        <th>Commitment</th>
-    </tr>
-
-    {% for commitment in site.commitments %}
-    {% if commitment.commitment_theme_name == "Ensure Equal Justice Under the Law" %}
-    <tr>
-        <td>{{ commitment.commitment_id }}</td>
-        <td><a href="{{ site.baseurl | append: commitment.permalink }}">{{ commitment.title }}</a></td>        
-    </tr>
-    {% endif %}
-    {% endfor %}    
-</table>
+            {% for commitment in site.commitments %}
+            {% if commitment.commitment_theme_name == "Improve Access to Government Data, Research, and Information" %}
+            <tr>
+                <td>{{ commitment.commitment_id }}</td>
+                <td><a href="{{ site.baseurl | append: commitment.permalink }}">{{ commitment.title }}</a></td>        
+            </tr>
+            {% endif %}
+            {% endfor %}    
+        </table>
 
 
 
