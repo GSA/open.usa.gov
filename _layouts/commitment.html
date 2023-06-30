@@ -13,8 +13,8 @@ layout: base
                 Commitment Tracker
             </h1>
             <div class="tracker-breadcrumb">
-                <a href="{{ site.baseurl }}/national-action-plan/5/status/">View All Commitments</a> | 
-                <a href="{{ site.baseurl }}/national-action-plan/5/status/">View All Commitments for this Theme</a>
+                <a href="{{ site.baseurl }}/national-action-plan/5/commitments/">View All Commitments</a> | 
+                <a href="{{ site.baseurl }}/national-action-plan/5/commitments/#{{ page.commitment_theme_slug }}">View All Commitments for this Theme</a>
             </div>
 
             <div class="commitment-pre-heading">Commitment:</div>
@@ -34,7 +34,7 @@ layout: base
 <p>Progress for this commitment is tracked based on the following sub-commitment(s). You can also view the <a href="{{ site.baseurl }}{{ page.commitment_link }}">full text of this commitment</a>.</p>
 
 
-    {% for commitment in site.sub %}
+    {% for commitment in site.subcommitments %}
     {% if commitment.commitment_id == page.commitment_id %}
     <table>
         <tr >
