@@ -15,7 +15,6 @@ Registration information for these events will be posted here in the weeks leadi
 
 #### July 2023
 
-* July 11, 4pm-5pm EST – User Centered Design for the US Open Government website – [Register Here](https://gsa.zoomgov.com/meeting/register/vJItceyvqD0vE4-fOqwIfI6PoCr538A13_I)
 * July 12, 11am-12pm EST – Transforming Government Service Delivery – [Register Here](https://gsa.zoomgov.com/meeting/register/vJItdumtrTIiGpdXJV2pKA3D1GIa35RpDd8)
 * July 20, 2pm-3:30pm EST – Increasing Civic Space to Engage the Public – [Register Here](https://pitc.zoomgov.com/webinar/register/WN_pO2RBzW-QHuwMHINlXF5dg)
 
