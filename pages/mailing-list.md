@@ -15,4 +15,6 @@ We host two open government listservs. One is open to the public and civil socie
 
 ### Open Government Points of Contact
 
-You can contact the open government program managers at [&#111;p&#101;&#110;gov&#64;&#103;&#115;a&#46;go&#118;](mail&#116;o&#58;o%70eng&#111;%76&#37;&#52;&#48;g%73a&#37;2E%6&#55;ov) or reach the [U.S. Government OGP points of contact](https://www.opengovpartnership.org/members/united-states/#anchor-contacts) listed on the OGP website. 
+You can contact the open government program managers at [&#x6f;&#x70;&#x65;&#x6e;&#x67;&#x6f;&#x76;&#x65;&#x72;&#x6e;&#x6d;&#x65;&#x6e;&#x74;&#x73;&#x65;&#x63;&#x72;&#x65;&#x74;&#x61;&#x72;&#x69;&#x61;&#x74;&#x40;&#x67;&#x73;&#x61;&#x2e;&#x67;ov](mail&#116;o&#58;&#x6f;&#x70;&#x65;&#x6e;&#x67;&#x6f;&#x76;&#x65;&#x72;&#x6e;&#x6d;&#x65;&#x6e;&#x74;&#x73;&#x65;&#x63;&#x72;&#x65;&#x74;&#x61;&#x72;&#x69;&#x61;&#x74;&#x40;&#x67;&#x73;&#x61;&#x2e;&#x67;&#x6f;&#x76;) or reach the [U.S. Government OGP points of contact](https://www.opengovpartnership.org/members/united-states/#anchor-contacts) listed on the OGP website. 
+
+
