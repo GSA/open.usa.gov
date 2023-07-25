@@ -16,8 +16,8 @@ At this webinar, the Office of Information and Regulatory Affairs (OIRA) in OMB 
 
 ## Additional Links
 
-*	The Office of Information and Regulatory Affairs’ guidance on public participation and community engagement in the regulatory process discussed on the webinar: [https://www.whitehouse.gov/wp-content/uploads/2023/07/Broadening-Public-Participation-and-Community-Engagement-in-the-Regulatory-Process.pdf](https://www.whitehouse.gov/wp-content/uploads/2023/07/Broadening-Public-Participation-and-Community-Engagement-in-the-Regulatory-Process.pdf)
-*	The Office of Information and Regulatory Affairs’ work on broadening public participation and community engagement in the regulatory process: [https://www.whitehouse.gov/omb/information-regulatory-affairs/broadening-public-engagement-in-the-federal-regulatory-process/](https://www.whitehouse.gov/omb/information-regulatory-affairs/broadening-public-engagement-in-the-federal-regulatory-process/)
+*	The Office of Information and Regulatory Affairs’ [guidance on public participation and community engagement in the regulatory process](https://www.whitehouse.gov/wp-content/uploads/2023/07/Broadening-Public-Participation-and-Community-Engagement-in-the-Regulatory-Process.pdf) discussed on the webinar
+*	The Office of Information and Regulatory Affairs’ [work on broadening public participation and community engagement in the regulatory process](https://www.whitehouse.gov/omb/information-regulatory-affairs/broadening-public-engagement-in-the-federal-regulatory-process/)
 *	The [Fifth U.S. Open Government National Action Plan](/national-action-plan/5/)
 *	The Office of Management and Budget’s work implementing President Biden’s equity executive order: [https://www.performance.gov/equity/](https://www.performance.gov/equity/)
 
