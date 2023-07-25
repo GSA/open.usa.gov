@@ -12,12 +12,12 @@ permalink: /meeting/july-2023-public-engagement-transforming-government-service-
 
 ## Agenda
 
-As outlined in the Fifth U.S. Open Government National Action Plan, OMB and GSA will share progress on the Biden-Harris Administration’s commitments to:
+As outlined in the [Fifth U.S. Open Government National Action Plan] (/national-action-plan/5/improve-public-engagement-related-to-agency-regulatory-actions), OMB and GSA will share progress on the Biden-Harris Administration’s commitments to:
 
-1. Implement Executive Order 14058 on Transforming Federal Customer Experience and Service Delivery to Rebuild Trust in Government;
-1. Improve the service delivery of High Impact Service Providers and ensure ongoing accountability;
-1. Prioritize administrative burden reductions through the Paperwork Reduction Act;
-1. Develop and implement Agency Equity Action Plans; and
+1. Implement [Executive Order 14058] (https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/)on Transforming Federal Customer Experience and Service Delivery to Rebuild Trust in Government;
+1. Improve the service delivery of [High Impact Service Providers] (https://www.performance.gov/cx/#hisps) and ensure ongoing accountability;
+1. Prioritize [administrative burden reductions] (https://www.whitehouse.gov/wp-content/uploads/2022/04/M-22-10.pdf) through the Paperwork Reduction Act;
+1. Develop and implement [Agency Equity Action Plans] (https://www.performance.gov/equity); and
 1. Pilot new forms of public engagement to inform policy and program implementation, including through a challenge and prize competition.
  
 After the presentation of updates, attendees will have the opportunity to ask questions and share reactions on the work to OMB and GSA staff, and we’ll preview upcoming Open Government public engagement sessions.
