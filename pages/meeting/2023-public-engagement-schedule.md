@@ -15,7 +15,7 @@ Registration information for these events will be posted here in the weeks leadi
 
 #### July 2023
 
-* July 12, 11am-12pm EST – Transforming Government Service Delivery – [Register Here](https://gsa.zoomgov.com/meeting/register/vJItdumtrTIiGpdXJV2pKA3D1GIa35RpDd8)
+* July 12, 11am-12pm EST – Transforming Government Service Delivery – [Meeting Record](/meeting/july-2023-public-engagement-transforming-government-service-delivery/)
 * July 20, 2pm-3:30pm EST – Increasing Civic Space to Engage the Public – [Register Here](https://pitc.zoomgov.com/webinar/register/WN_pO2RBzW-QHuwMHINlXF5dg)
 * July 27, 2pm-3pm EST – Community Discussion: Open forum on re-designing the U.S. Open Government website and input on how we track progress on the U.S. National Action Plan – [Register Here](https://gsa.zoomgov.com/meeting/register/vJIscOyprT4sHVgaju_0fCO6_NrhPTp0DVo)
 
