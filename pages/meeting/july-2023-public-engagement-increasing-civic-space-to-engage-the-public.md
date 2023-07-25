@@ -6,7 +6,7 @@ permalink: /meeting/july-2023-public-engagement-increasing-civic-space-to-engage
 ---
 
 * [Meeting slides (PDF)](/assets/files/2023-07-20-oira-guidance-overview-omb-participation-frameworks.pdf)
-* [Meeting Overview](/assets/files/2023-07-20-meeting-overview.pdf) 
+* [Meeting Overview](/assets/files/2023-07-20-meeting-overview1.pdf)
 
 
 ## Agenda
