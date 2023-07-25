@@ -5,7 +5,7 @@ body-class: about
 permalink: /meeting/july-2023-public-engagement-increasing-civic-space-to-engage-the-public/
 ---
 
-* [Meeting slides (PDF)](/assets/files/2023-07-20-OIRA_Guidance_Overview_+_OMB_Participation_Frameworks.pdf)
+* [Meeting slides (PDF)](/assets/files/2023-07-20-oira-guidance-overview-omb-participation-frameworks.pdf)
 * [Meeting Overview](/assets/files/2023-07-20-Meeting_Overview.pdf)
 
 
