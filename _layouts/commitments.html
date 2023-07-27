@@ -1,0 +1,72 @@
+---
+layout: base
+---
+
+<div class="opengov-landing">
+
+    <article>
+
+         <header>
+            <h1>{{ page.title }}</h1>            
+        </header>
+
+
+        {{ content }}
+
+        <h3><a href="../#improve-access-to-government-data-research-and-information">Improve Access to Government Data, Research, and Information</a></h3>
+        <table>
+            <tr>
+                <th>ID</th>
+                <th>Commitment</th>
+            </tr>
+
+            {% for commitment in site.commitments %}
+            {% if commitment.commitment_theme_name == "Improve Access to Government Data, Research, and Information" %}
+            <tr>
+                <td>{{ commitment.commitment_id }}</td>
+                <td><a href="{{ site.baseurl | append: commitment.permalink }}">{{ commitment.title }}</a></td>        
+            </tr>
+            {% endif %}
+            {% endfor %}    
+        </table>
+
+        <h3><a href="../#increase-civic-space-to-engage-the-public">Increase Civic Space to Engage the Public</a></h3>
+        <table>
+            <tr>
+                <th>ID</th>
+                <th>Commitment</th>
+            </tr>
+
+            {% for commitment in site.commitments %}
+            {% if commitment.commitment_theme_name == "Increase Civic Space to Engage the Public" %}
+            <tr>
+                <td>{{ commitment.commitment_id }}</td>
+                <td><a href="{{ site.baseurl | append: commitment.permalink }}">{{ commitment.title }}</a></td>        
+            </tr>
+            {% endif %}
+            {% endfor %}    
+        </table>        
+
+        <h3><a href="../#transform-government-service-delivery">Transform Government Service Delivery</a></h3>
+        <table>
+            <tr>
+                <th>ID</th>
+                <th>Commitment</th>
+            </tr>
+
+            {% for commitment in site.commitments %}
+            {% if commitment.commitment_theme_name == "Transform Government Service Delivery" %}
+            <tr>
+                <td>{{ commitment.commitment_id }}</td>
+                <td><a href="{{ site.baseurl | append: commitment.permalink }}">{{ commitment.title }}</a></td>        
+            </tr>
+            {% endif %}
+            {% endfor %}    
+        </table> 
+
+
+    </article>
+
+    <p class="volver clearfix"><a href="#skiptarget"><span class="icon-backtotop-dwnlvl">Back to Top</span></a></p>
+
+</div>

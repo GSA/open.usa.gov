@@ -1,0 +1,63 @@
+---
+layout: base
+---
+
+<div class="opengov-landing">
+
+    <article>
+
+
+         <header>                        
+            <h1 class="tracker-heading">Fifth U.S. Open Government National Action Plan
+                <br>
+                Commitment Tracker
+            </h1>
+            <div class="tracker-breadcrumb">
+                <a href="{{ site.baseurl }}/national-action-plan/5/commitments/">View All Commitments</a> | 
+                <a href="{{ site.baseurl }}/national-action-plan/5/commitments/#{{ page.commitment_theme_slug }}">View All Commitments for this Theme</a>
+            </div>
+
+            <div class="commitment-pre-heading">Commitment:</div>
+            <h2 class="commitment-heading">{{ page.title }}</h2>   
+
+           <div class="commitment-breadcrumb" >
+                <a href="../">5th National Action Plan</a> | 
+                Theme: <a href="../#{{ page.commitment_theme_slug }}">{{ page.commitment_theme_name }}</a>
+           </div>
+
+        </header>
+
+
+<a class="usa-button" href="{{ site.baseurl }}{{ page.commitment_link }}">Full Commitment Text</a>
+<a class="usa-button" href="https://www.opengovpartnership.org/members/united-states/commitments/{{ page.commitment_id }}/">OGP Commitment Page</a>
+
+<p>Progress for this commitment is tracked based on the following sub-commitment(s). You can also view the <a href="{{ site.baseurl }}{{ page.commitment_link }}">full text of this commitment</a>.</p>
+
+
+    {% for commitment in site.subcommitments %}
+    {% if commitment.commitment_id == page.commitment_id %}
+    <table>
+        <tr >
+            <th style="background-color: #f0f0f0;">{{ commitment.commitment_detail_sub_id }}</th>
+            <td style="font-weight: bold; background-color: #f0f0f0;">{{ commitment.commitment_detail_sub }}</td>        
+        </tr>
+        <tr>
+            <th>Agency</th>
+            <td>{{ commitment.commitment_agency }}</td>
+        </tr>
+        <tr>
+            <th>Progress</th>
+            <td>{{ commitment.content | markdownify }}</td>
+        </tr>    
+    </table>    
+    {% endif %}
+    {% endfor %}
+
+
+
+
+    </article>
+
+    <p class="volver clearfix"><a href="#skiptarget"><span class="icon-backtotop-dwnlvl">Back to Top</span></a></p>
+
+</div>
