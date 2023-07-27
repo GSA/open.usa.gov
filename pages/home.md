@@ -13,7 +13,7 @@ This site outlines initiatives on openness, transparency and public participatio
 * The [Fifth U.S. National Action Plan for Open Government](/national-action-plan/5/) is now available
 
 ### Current and Past U.S. National Action Plans:
-* [Fifth National Action Plan for Open Government (2022-2024)](/national-action-plan/5/)
+* [Fifth National Action Plan for Open Government (2022-2024)](/national-action-plan/5/) ([Commitment Tracker](/national-action-plan/5/commitments/))
 
 * [Fourth National Action Plan for Open Government (2019-2022)](/assets/files/NAP4-fourth-open-government-national-action-plan.pdf)
 

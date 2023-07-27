@@ -6,7 +6,10 @@ permalink: /national-action-plan/5/
 ---
 December 2022
 
-[Download as a PDF](/assets/files/NAP5-fifth-open-government-national-action-plan.pdf){:.usa-button} 
+
+[View Commitment Tracker](/national-action-plan/5/commitments/){:.usa-button} 
+[Download Plan as a PDF](/assets/files/NAP5-fifth-open-government-national-action-plan.pdf){:.usa-button} 
+
 
 ## Introduction
 
