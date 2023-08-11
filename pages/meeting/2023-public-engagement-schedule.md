@@ -20,7 +20,7 @@ Registration information for these events will be posted here in the weeks leadi
 
 
 #### August 2023
-* August 16, 1pm-2pm EST – Improving Access to Government Data, Research, and Information – [Register Here](https://gsa.zoomgov.com/meeting/register/vJIsdO-sqzsoE_G_AP1spjsTo4BElLp9FTY)
+* August 16, 1pm-2pm EST – Improving Access to Government Data, Research, and Information – [Register Here](https://gsa.zoomgov.com/meeting/register/vJIsdO-sqzsoE_G_AP1spjsTo4BElLp9FTY) | [Meeting Record](https://open.usa.gov/meeting/august-2023-public-engagement-improving-access-to-government-data-research-and-information/)
 
 
 #### September 2023
