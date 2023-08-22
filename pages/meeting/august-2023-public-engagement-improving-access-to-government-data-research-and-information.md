@@ -5,7 +5,7 @@ body-class: about
 permalink: /meeting/august-2023-public-engagement-improving-access-to-government-data-research-and-information/
 ---
 
-* [Meeting slides (PDF) (Coming Soon)]()
+* [Meeting slides (PDF)](/assets/files/2023-08-16-ogp-engagement-session-slides-v8.pdf)
 * [Meeting Overview](/assets/files/2023-08-16-ogp-forum-engagement-session-agenda.pdf)
 
 
