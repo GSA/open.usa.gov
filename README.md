@@ -1,8 +1,9 @@
 # open.usa.gov
+
 Public Engagement &amp; Open Governance initiatives of the USA.
 Commitments are divided into sub-commitments and renumbered to simplify reporting.
 
-# Federalist + U.S. Web Design System + Jekyll
+## Federalist + U.S. Web Design System + Jekyll
 
 This [Jekyll theme](https://jekyllrb.com/docs/themes/) is developed using the [U.S. Web Design System v 2.0](https://v2.designsystem.digital.gov) and is focused on providing developers a starter kit and reference implementation for Federalist websites.
 
