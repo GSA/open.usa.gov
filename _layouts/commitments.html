@@ -64,6 +64,39 @@ layout: base
             {% endfor %}    
         </table> 
 
+        <h3 id="counter-corruption-and-ensure-government-integrity-and-accountability-to-the-public"><a href="../#counter-corruption-and-ensure-government-integrity-and-accountability-to-the-public">Counter Corruption and Ensure Government Integrity and Accountability to the Public</a></h3>
+        <table>
+            <tr>
+                <th>ID</th>
+                <th>Commitment</th>
+            </tr>
+
+            {% for commitment in site.commitments %}
+            {% if commitment.commitment_theme_name == "Counter Corruption and Ensure Government Integrity and Accountability to the Public" %}
+            <tr>
+                <td>{{ commitment.commitment_id }}</td>
+                <td><a href="{{ site.baseurl | append: commitment.permalink }}">{{ commitment.title }}</a></td>        
+            </tr>
+            {% endif %}
+            {% endfor %}    
+        </table> 
+
+        <h3 id="ensure-equal-justice-under-the-law"><a href="../#ensure-equal-justice-under-the-law">Ensure Equal Justice Under the Law</a></h3>
+        <table>
+            <tr>
+                <th>ID</th>
+                <th>Commitment</th>
+            </tr>
+
+            {% for commitment in site.commitments %}
+            {% if commitment.commitment_theme_name == "Ensure Equal Justice Under the Law" %}
+            <tr>
+                <td>{{ commitment.commitment_id }}</td>
+                <td><a href="{{ site.baseurl | append: commitment.permalink }}">{{ commitment.title }}</a></td>        
+            </tr>
+            {% endif %}
+            {% endfor %}    
+        </table> 
 
     </article>
 
