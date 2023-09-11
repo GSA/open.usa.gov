@@ -19,10 +19,19 @@ As outlined in the [Fifth U.S. Open Government National Action Plan](/national-a
 3. Prioritize [administrative burden reductions](https://www.whitehouse.gov/wp-content/uploads/2022/04/M-22-10.pdf) through the Paperwork Reduction Act;
 4. Develop and implement [Agency Equity Action Plans](https://www.performance.gov/equity); and
 5. Pilot new forms of public engagement to inform policy and program implementation, including through a challenge and prize competition.
- 
+
 After the presentation of updates, attendees will have the opportunity to ask questions and share reactions on the work to OMB and GSA staff, and we’ll preview upcoming Open Government public engagement sessions.
  
 Every day, as you know, agencies across the Federal Government provide critical assistance for families, businesses, and other organizations. And each interaction between the Government and the public—whether it involves renewing a passport, claiming retirement benefits, or checking the status of a farm loan application—is an opportunity for the Government to deliver the level of service that the public expects and deserves, foster trust and greater engagement in the work of the Government, and ensure equity for all Americans. We look forward to sharing how the Biden-Harris Administration is Transforming Government Service Delivery. And we’re excited to continue learning from you about how the Federal Government can improve the ability of Federal agencies to deliver programs, services, and benefits in an accessible, equitable, timely, and effective manner.
 
+## Recording of the Meeting
+
+<div class="video-container" style="margin-bottom: 5em">
+<iframe src="https://www.youtube.com/embed/lL6woz8cbiY?si=Qhmn1P7_nMoa8Bm8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+---
+
 Join the [Open Government Mailing List](https://groups.google.com/g/us-open-government) for updates.
+
 
