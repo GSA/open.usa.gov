@@ -24,12 +24,20 @@ The agenda for the session is as follows:
 * Usability Testing of the Commitment Tracker using “I like, I wish, I wonder” methodology (facilitated by Mural)
 * Closing Remarks
 
+## Recording of the Meeting
+
+<div class="video-container" style="margin-bottom: 5em">
+<iframe src="https://www.youtube.com/embed/18KIZAZwNgs?si=aYjKFhnLjFwoBAVi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Additional Links
 
 * Open Government Secretariat email box - [&#x6f;&#x70;&#x65;&#x6e;&#x67;&#x6f;&#x76;&#x65;&#x72;&#x6e;&#x6d;&#x65;&#x6e;&#x74;&#x73;&#x65;&#x63;&#x72;&#x65;&#x74;&#x61;&#x72;&#x69;&#x61;&#x74;&#x40;&#x67;&#x73;&#x61;&#x2e;&#x67;ov](mail&#116;o&#58;&#x6f;&#x70;&#x65;&#x6e;&#x67;&#x6f;&#x76;&#x65;&#x72;&#x6e;&#x6d;&#x65;&#x6e;&#x74;&#x73;&#x65;&#x63;&#x72;&#x65;&#x74;&#x61;&#x72;&#x69;&#x61;&#x74;&#x40;&#x67;&#x73;&#x61;&#x2e;&#x67;&#x6f;&#x76;)
 * [National Action Plan Beta Commitment Tracker](/national-action-plan/5/commitments/)
 * [Whiteboard (PDF)](/assets/files/2023-07-27-public-meeting-meeting-whiteboard.pdf) / [Interactive Board](https://app.mural.co/t/gsa6/m/gsa6/1689346411541/87f1ec53931c716e38bcae6c44885eaac60ea4b9?sender=ub64cdaf81c5e3e5bb6e79859)
 * [Past and Future Engagement Sessions](/national-action-plan/5/schedule-of-2023-engagement-sessions/) - July 12th and July 20th meeting recap materials have been added
+
+---
 
 Join the [Open Government Mailing List](/mailing-list/) for updates.
 
