@@ -6,7 +6,7 @@ permalink: /national-action-plan/5/schedule-of-2023-engagement-sessions/
 ---
 
 #### Fifth Open Government National Action Plan
-_Updated June 30, 2023_
+_Updated September 11, 2023_
 
 
 Since releasing the [Fifth Open Government National Action Plan](../) in December 2022, the Federal Government began implementing the many commitments outlined within it. In advance of publishing progress toward those commitments, the Open Government Working Group is releasing the schedule of virtual engagement sessions below with registration links. Each session will focus on one or two themes and during the session, agency representatives will report on the progress of implementation and upcoming milestones for commitments within the theme. These virtual engagement sessions will also offer the opportunity for civil society stakeholders and the public to provide feedback and ask questions regarding the risks and challenges related to implementation. We look forward to collaborating with you.
@@ -24,7 +24,6 @@ Registration information for these events will be posted here in the weeks leadi
 
 
 #### September 2023
-* DATE AND TIME TBD – Joint engagement session focusing on the following themes:
+* September 26th, 2PM-3PM EST – Counter Corruption and Ensure Government Integrity and Accountability to the Public. Register here: [https://gsa.zoomgov.com/meeting/register/vJIsd-mqrTIpG1x5HQFssnSBsZv7KRGqrUU](https://gsa.zoomgov.com/meeting/register/vJIsd-mqrTIpG1x5HQFssnSBsZv7KRGqrUU) – Joint engagement session focusing on the following themes:
 	* Counter Corruption and Ensure Government Integrity and Accountability to the Public 
 	* Ensure Equal Justice Under the Law
-
