@@ -24,6 +24,4 @@ Registration information for these events will be posted here in the weeks leadi
 
 
 #### September 2023
-* September 26th, 2PM-3PM EST – Counter Corruption and Ensure Government Integrity and Accountability to the Public. Register here: [https://gsa.zoomgov.com/meeting/register/vJIsd-mqrTIpG1x5HQFssnSBsZv7KRGqrUU](https://gsa.zoomgov.com/meeting/register/vJIsd-mqrTIpG1x5HQFssnSBsZv7KRGqrUU) – Joint engagement session focusing on the following themes:
-	* Counter Corruption and Ensure Government Integrity and Accountability to the Public 
-	* Ensure Equal Justice Under the Law
+* September 26th, 2PM-3PM EST – Counter Corruption and Ensure Government Integrity and Accountability to the Public. Register here: [https://gsa.zoomgov.com/meeting/register/vJIsd-mqrTIpG1x5HQFssnSBsZv7KRGqrUU](https://gsa.zoomgov.com/meeting/register/vJIsd-mqrTIpG1x5HQFssnSBsZv7KRGqrUU)
