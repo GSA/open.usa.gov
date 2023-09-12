@@ -21,6 +21,7 @@ At this webinar, the Office of Information and Regulatory Affairs (OIRA) in OMB 
 *	The [Fifth U.S. Open Government National Action Plan](/national-action-plan/5/)
 *	The Office of Management and Budget’s work implementing President Biden’s equity executive order: [https://www.performance.gov/equity/](https://www.performance.gov/equity/)
 
+---
 
 Join the [Open Government Mailing List](https://groups.google.com/g/us-open-government) for updates.
 
