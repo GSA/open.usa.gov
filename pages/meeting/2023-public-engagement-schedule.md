@@ -26,3 +26,5 @@ Registration information for these events will be posted here in the weeks leadi
 #### September 2023
 
 * September 26th, 2PM-3PM EST – Counter Corruption and Ensure Government Integrity and Accountability to the Public (FOIA Focus only). Register here: [https://gsa.zoomgov.com/webinar/register/WN_7wt-REDZQjaaK3dysRQDRw](https://gsa.zoomgov.com/webinar/register/WN_7wt-REDZQjaaK3dysRQDRw)
+    * [Meeting slides (PDF)](/assets/files/2023-09-26-slides.pdf)
+    * [Meeting agenda (PDF)](/assets/files/2023-09-26-agenda.pdf)
