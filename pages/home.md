@@ -7,13 +7,17 @@ permalink: /
 
 This site outlines initiatives on openness, transparency and public participation, pursuant to the U.S. National Action Plans. 
 
-### Fifth U.S. National Action Plan
+### Current U.S. National Action Plan
+
+* [Fifth National Action Plan for Open Government (2022-2024)](/national-action-plan/5/) ([Commitment Tracker](/national-action-plan/5/commitments/))
+
 * [Schedule of 2023 Engagement Sessions](/national-action-plan/5/schedule-of-2023-engagement-sessions/)
+
 * Read the [press release](https://www.whitehouse.gov/ostp/news-updates/2022/12/28/white-house-releases-fifth-open-government-national-action-plan-to-advance-a-more-inclusive-responsive-and-accountable-government/) for the Fifth U.S. National Action Plan for Open Government on [WhiteHouse.gov](https://www.whitehouse.gov/ostp/news-updates/2022/12/28/white-house-releases-fifth-open-government-national-action-plan-to-advance-a-more-inclusive-responsive-and-accountable-government/)
+
 * The [Fifth U.S. National Action Plan for Open Government](/national-action-plan/5/) is now available
 
-### Current and Past U.S. National Action Plans:
-* [Fifth National Action Plan for Open Government (2022-2024)](/national-action-plan/5/) ([Commitment Tracker](/national-action-plan/5/commitments/))
+### Past U.S. National Action Plans
 
 * [Fourth National Action Plan for Open Government (2019-2022)](/assets/files/NAP4-fourth-open-government-national-action-plan.pdf)
 
