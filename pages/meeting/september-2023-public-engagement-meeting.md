@@ -6,7 +6,7 @@ permalink: /meeting/september-2023-public-engagement-counter-corruption-and-ensu
 ---
 
 * [Meeting slides (PDF)](/assets/files/2023-09-26-slides.pdf)
-* [Meeting Overview](/assets/files/2023-09-26-Engagement-Session-Meeting-Overview.pdf2023-09-26-Engagement-Session-Meeting-Overview.pdf)
+* [Meeting Overview](/assets/files/2023-09-26-Engagement-Session-Meeting-Overview.pdf)
 
 
 ## Agenda
