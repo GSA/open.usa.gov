@@ -15,7 +15,8 @@ Registration information for these events will be posted here in the weeks leadi
 
 ### Upcoming Meeting:
 
-* November 2nd, 1:30pm-2:30pm EST – International-Focused Commitments. Register here: [https://gsa.zoomgov.com/meeting/register/vJItcO6spjkoHl8M_za-XBNA73TrDetL5dg](https://gsa.zoomgov.com/meeting/register/vJItcO6spjkoHl8M_za-XBNA73TrDetL5dg)
+* November 2nd, 1:30pm-2:30pm EST – International-Focused Commitments. 
+Register here: [https://gsa.zoomgov.com/meeting/register/vJItcO6spjkoHl8M_za-XBNA73TrDetL5dg](https://gsa.zoomgov.com/meeting/register/vJItcO6spjkoHl8M_za-XBNA73TrDetL5dg)
 
 ### Past Meetings:
 
