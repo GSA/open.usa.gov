@@ -5,9 +5,9 @@ body-class: about
 permalink: /meeting/november-2023-public-engagement-international-focused-commitments/
 ---
 
-* [Meeting slides (PDF)](assets/files/2023-11-02-OGP-Engagement-Session-Slides-Countering-Corruption-International-Focus.pdf)
+* [Meeting slides (PDF)](/assets/files/2023-11-02-OGP-Engagement-Session-Slides-Countering-Corruption-International-Focus.pdf)
 * [Meeting Overview](/assets/files/2023-11-02-meeting-overview.pdf)
-* [Norms of Engagements](assets/files/Norms-of-Engagement-Draft.pdf)
+* [Norms of Engagements](/assets/files/Norms-of-Engagement-Draft.pdf)
 
 ## Agenda
 
