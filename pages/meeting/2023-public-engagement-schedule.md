@@ -23,10 +23,10 @@ Registration information for these events will be posted here in the weeks leadi
 
   RSVP: Due to space constraints, no more than two participants per organization can attend in person. There is no limit on virtual participation and all are welcome.
 
-  * IN PERSON RSVP by 5:00pm ET on 1/30/2024 here!
+  * IN PERSON RSVP by 5:00pm ET on 1/30/2024 [here](https://docs.google.com/forms/d/e/1FAIpQLSfkQtcAo3d3jrZK25ZF8zDm1hoJkRyItGsxUNFc-SdkCbu4Xg/viewform)!
     * For in person attendance, please arrive 15 min early to get through security
 
-  * VIRTUAL RSVP by 5:00pm ET on 2/1/2024 here!
+  * VIRTUAL RSVP by 5:00pm ET on 2/1/2024 [here](https://gsa.zoomgov.com/meeting/register/vJItduCurjwsEt32wf5Wv99XU-z6cTzkwN4#/registration)!
 
 ### Past Meetings:
 
