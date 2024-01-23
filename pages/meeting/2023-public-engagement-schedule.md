@@ -18,15 +18,12 @@ Registration information for these events will be posted here in the weeks leadi
 #### February 2024
 * February 5th, 10:00AM - 12:30Pm ET – Strengthening the Future of Open Government - A USG and Civil Society Collaboration Event
   * Purpose: A hybrid discussion with other members of U.S. civil society involved in advancing open government principles, moderated by the U.S. General Services Administration’s (GSA) Open Government Secretariat and the Open Government Roundtable.
+  * Location: GSA HQ - 1800 F St. NW Washington DC 20006 (in person and virtual)
+  * RSVP: Due to space constraints, no more than two participants per organization can attend in person. There is no limit on virtual participation and all are welcome.
 
-  Location: GSA HQ - 1800 F St. NW Washington DC 20006 (in person and virtual)
-
-  RSVP: Due to space constraints, no more than two participants per organization can attend in person. There is no limit on virtual participation and all are welcome.
-
-  * IN PERSON RSVP by 5:00pm ET on 1/30/2024 [here](https://docs.google.com/forms/d/e/1FAIpQLSfkQtcAo3d3jrZK25ZF8zDm1hoJkRyItGsxUNFc-SdkCbu4Xg/viewform)!
-    * For in person attendance, please arrive 15 min early to get through security
-
-  * VIRTUAL RSVP by 5:00pm ET on 2/1/2024 [here](https://gsa.zoomgov.com/meeting/register/vJItduCurjwsEt32wf5Wv99XU-z6cTzkwN4#/registration)!
+    * IN PERSON RSVP by 5:00pm ET on 1/30/2024 [here](https://docs.google.com/forms/d/e/1FAIpQLSfkQtcAo3d3jrZK25ZF8zDm1hoJkRyItGsxUNFc-SdkCbu4Xg/viewform)!
+      * For in person attendance, please arrive 15 min early to get through security
+    * VIRTUAL RSVP by 5:00pm ET on 2/1/2024 [here](https://gsa.zoomgov.com/meeting/register/vJItduCurjwsEt32wf5Wv99XU-z6cTzkwN4#/registration)!
 
 ### Past Meetings:
 
