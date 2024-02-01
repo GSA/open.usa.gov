@@ -1,12 +1,12 @@
 ---
 layout: home
 body-class: nap4
-title: "Schedule of 2023 Engagement Sessions"
-permalink: /national-action-plan/5/schedule-of-2023-engagement-sessions/
+title: "Schedule of Open Govt Public Engagement Sessions"
+permalink: /national-action-plan/5/schedule-of-open-govt-public-engagement-sessions/
 ---
 
 #### Fifth Open Government National Action Plan
-_Updated December 2023_
+_Updated February 2024_
 
 
 Since releasing the [Fifth Open Government National Action Plan](../) in December 2022, the Federal Government began implementing the many commitments outlined within it. In advance of publishing progress toward those commitments, the Open Government Working Group is releasing the schedule of virtual engagement sessions below with registration links. Each session will focus on one or two themes and during the session, agency representatives will report on the progress of implementation and upcoming milestones for commitments within the theme. These virtual engagement sessions will also offer the opportunity for civil society stakeholders and the public to provide feedback and ask questions regarding the risks and challenges related to implementation. We look forward to collaborating with you.
@@ -16,10 +16,10 @@ Registration information for these events will be posted here in the weeks leadi
 ### Upcoming Meeting:
 
 #### February 2024
-* February 5th, 10:00AM - 12:30Pm ET – Strengthening the Future of Open Government - A USG and Civil Society Collaboration Event
-  * Purpose: A hybrid discussion with other members of U.S. civil society involved in advancing open government principles, moderated by the U.S. General Services Administration’s (GSA) Open Government Secretariat and the Open Government Roundtable.
-  * Location: GSA HQ - 1800 F St. NW Washington DC 20006 (in person and virtual)
-  * RSVP: Due to space constraints, no more than two participants per organization can attend in person. There is no limit on virtual participation and all are welcome.
+* February 5th, 10:00AM - 12:30PM ET – Strengthening the Future of Open Government - A USG and Civil Society Collaboration Event
+  * **Purpose:** A hybrid discussion with other members of U.S. civil society involved in advancing open government principles, moderated by the U.S. General Services Administration’s (GSA) Open Government Secretariat and the Open Government Roundtable.
+  * **Location:** GSA HQ - 1800 F St. NW Washington DC 20006 (in person and virtual)
+  * **RSVP:** Due to space constraints, no more than two participants per organization can attend in person. There is no limit on virtual participation and all are welcome.
 
     * IN PERSON RSVP by 5:00pm ET on 1/30/2024 [here](https://docs.google.com/forms/d/e/1FAIpQLSfkQtcAo3d3jrZK25ZF8zDm1hoJkRyItGsxUNFc-SdkCbu4Xg/viewform)!
       For in person attendance, please arrive 15 min early to get through security
