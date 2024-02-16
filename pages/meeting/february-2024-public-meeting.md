@@ -5,7 +5,8 @@ body-class: about
 permalink: /meeting/february-2024-public-meeting/
 ---
 
-* [Meeting slides (PDF)](/assets/files/02.05.24_Open_Government_Secretariat_and_Open_Government_Roundtable_Civil_Society_Meeting_pptx.pdf)
+* [Agenda](/assets/files/02052024_Open_Government_Secretariat_Open Government_Roundtable- Civil_Society_Meeting_Agenda.pdf)
+* [Meeting slides](/assets/files/02.05.24_Open_Government_Secretariat_and_Open_Government_Roundtable_Civil_Society_Meeting_.pptx)
 * [Meeting Overview & Notes](/assets/files/02.05.24_Engagement_Session_Meeting_Overview.pdf)
 * [Miro Board Activity Screen Captures](https://drive.google.com/file/d/11uIWocoO11uSe6cccVHdWdK2silGy1He/view)
 * [U.S. Multi-Stakeholder Forum Alternatives Analysis](https://drive.google.com/file/d/1XHSGeZRvnIi-ZFJyE-TVLdI5pGwrtsqR/view)
@@ -18,7 +19,7 @@ This was a hybrid discussion with members of U.S. civil society involved in adva
 ## Recording of the Meeting
 
 <div class="video-container" style="margin-bottom: 5em">
-<iframe src="https://www.youtube.com/watch?v=brOGRRXcOMY&list=PLvdwyPgXnxxUZ9uzcRN7M32TvlOZYNF2S&index=7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/watch?v=brOGRRXcOMY&list=PLvdwyPgXnxxUZ9uzcRN7M32TvlOZYNF2S&index=6&t=33s&pp=iAQB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ---
