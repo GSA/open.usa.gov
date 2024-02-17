@@ -19,7 +19,7 @@ This was a hybrid discussion with members of U.S. civil society involved in adva
 ## Recording of the Meeting
 
 <div class="video-container" style="margin-bottom: 5em">
-<iframe src="https://www.youtube.com/watch?v=brOGRRXcOMY&list=PLvdwyPgXnxxUZ9uzcRN7M32TvlOZYNF2S&index=6&t=33s&pp=iAQB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/brOGRRXcOMY?si=goDr-MkAGTu5rmVb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ---
