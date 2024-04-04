@@ -15,13 +15,13 @@ Registration information for these events will be posted here in the weeks leadi
 
 ### Upcoming Meeting:
 
-**April 25th** - Your organization is invited to join a hybrid discussion with members of the U.S. federal government and civil society involved in advancing open data principles, hosted by the U.S. General Services Administration’s (GSA) Open Government Secretariat, the Federal Chief Data Officers (CDO) Council, the Data Foundation (a nonpartisan organization that conducts research, collaborative thought leadership, and advocacy programs to advance practical policies for the creation and use of accessible, trustworthy data), and the Open Gov Hub (a coworking and event space that works to bring together like-minded organizations that are focused on government Transparency, Accountability, and Civic Participation). <br><br>
-     **Date:** Thursday, April 25th, 2024<br>
-     **Time:** 2:00 pm - 4:00 pm ET<br>
-     **Location**: Open Gov Hub, 1100 13th St NW STE 800, Washington, DC 20005 (in person and virtual)<br>
-     **RSVP:** Due to space constraints, no more than two participants per organization can attend in person. There is no limit on virtual participation and all are welcome. <br>
-          **IN PERSON RSVP** by 5:00pm ET on 4/22/2024 <a href="https://docs.google.com/forms/d/e/1FAIpQLScHgPGl3-ukmK4bojzLvgV1u_zXCn-_SxGaSAyQeJjTbp3u8Q/viewform?usp=sf_link">HERE</a><br>
-          **VIRTUAL RSVP** by 5:00pm ET on 4/23/2024 <a href="https://gsa.zoomgov.com/meeting/register/vJItdeCtpjoiHJKC-s7rx_oOynQ0MGqm0q4">HERE</a><br>
+**April 25th** - Your organization is invited to join a hybrid discussion with members of the U.S. federal government and civil society involved in advancing open data principles, hosted by the U.S. General Services Administration’s (GSA) Open Government Secretariat, the Federal Chief Data Officers (CDO) Council, the Data Foundation (a nonpartisan organization that conducts research, collaborative thought leadership, and advocacy programs to advance practical policies for the creation and use of accessible, trustworthy data), and the Open Gov Hub (a coworking and event space that works to bring together like-minded organizations that are focused on government Transparency, Accountability, and Civic Participation).
+* **Date:** Thursday, April 25th, 2024<br>
+* **Time:** 2:00 pm - 4:00 pm ET<br>
+* **Location**: Open Gov Hub, 1100 13th St NW STE 800, Washington, DC 20005 (in person and virtual)<br>
+* **RSVP:** Due to space constraints, no more than two participants per organization can attend in person. There is no limit on virtual participation and all are welcome. <br>
+    * **IN PERSON RSVP** by 5:00pm ET on 4/22/2024 <a href="https://docs.google.com/forms/d/e/1FAIpQLScHgPGl3-ukmK4bojzLvgV1u_zXCn-_SxGaSAyQeJjTbp3u8Q/viewform?usp=sf_link">HERE</a><br>
+    * **VIRTUAL RSVP** by 5:00pm ET on 4/23/2024 <a href="https://gsa.zoomgov.com/meeting/register/vJItdeCtpjoiHJKC-s7rx_oOynQ0MGqm0q4">HERE</a><br>
 
 
 ### Past Meetings:
