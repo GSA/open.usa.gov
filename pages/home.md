@@ -17,6 +17,8 @@ This site outlines initiatives on openness, transparency and public participatio
 
 * The [Fifth U.S. National Action Plan for Open Government](/national-action-plan/5/) is now available
 
+* [Mid-Term Self-Assessment](/national-action-plan/5/NAP5-Self-Assessment/)
+
 ### Past U.S. National Action Plans
 
 * [Fourth National Action Plan for Open Government (2019-2022)](/assets/files/NAP4-fourth-open-government-national-action-plan.pdf)
