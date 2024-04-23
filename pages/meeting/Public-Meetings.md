@@ -15,6 +15,13 @@ Registration information for these events will be posted here in the weeks leadi
 
 ### Upcoming Meeting:
 
+**May 2nd** - The White House Office of Management and Budget (OMB) is shaping a new Federal framework for public participation and community engagement (PPCE), aimed at helping Federal agencies more broadly and meaningfully engage with all members of the public, including underserved communities. **OMB is <a href="https://www.performance.gov/participation/">seeking public feedback</a> on developing this framework, with written input due by May 17**. We want to ensure that all members of this community are aware of this opportunity to provide your expertise and insights. In addition, the <a href="https://www.gsa.gov/governmentwide-initiatives/open-government-initiative">U.S. Open Government Secretariat</a>, OMB, and the White House Office of Science and Technology Policy (OSTP) are pleased to invite you to a listening session on **Leveraging Federal Participation and Engagement to Drive Open Government on Thursday, May 2, from 1:30-3:00 pm ET**. After brief presentations from OSTP, OMB, and the U.S. General Services Administration (GSA), attendees will have the opportunity to provide feedback and ideas on a Federal framework for PPCE.
+* **Date:** Thursday, May 2nd, 2024<br>
+* **Time:** 1:30 pm - 3:00 pm ET<br>
+* **Location**: Virtual Only, registration required<br>
+* **RSVP:**  <a href="https://gsa.zoomgov.com/meeting/register/vJIsf-GrrD0qHPHlwkXBdEWLmvdqC56QMX0">https://gsa.zoomgov.com/meeting/register/vJIsf-GrrD0qHPHlwkXBdEWLmvdqC56QMX0</a>. (If you require any special accommodations, please email <a href="opengovernmentsecretariat@gsa.gov">opengovernmentsecretariat@gsa.gov</a>.)<br><br>
+
+
 **April 25th** - Your organization is invited to join a hybrid discussion with members of the U.S. federal government and civil society involved in advancing open data principles, hosted by the U.S. General Services Administration’s (GSA) Open Government Secretariat, the Federal Chief Data Officers (CDO) Council, the Data Foundation (a nonpartisan organization that conducts research, collaborative thought leadership, and advocacy programs to advance practical policies for the creation and use of accessible, trustworthy data), and the Open Gov Hub (a coworking and event space that works to bring together like-minded organizations that are focused on government Transparency, Accountability, and Civic Participation).
 * **Date:** Thursday, April 25th, 2024<br>
 * **Time:** 2:00 pm - 4:00 pm ET<br>
