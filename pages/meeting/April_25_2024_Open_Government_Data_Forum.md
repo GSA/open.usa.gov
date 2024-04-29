@@ -6,8 +6,8 @@ body-class: about
 permalink: /meeting/february-2024-public-meeting/
 ---
 
-* [Agenda](assets/files/02.05.24_Engagement_Session_Meeting_Overview.pdf)
-* [Meeting slides](/assets/files/04252024_Open_Data_Forum_Slides)
+* [Agenda](assets/files/04252024_Open_Government_Data_Forum_Agenda.pdf)
+* [Meeting slides](assets/files/04252024_Open_Data_Forum_Slides.pdf)
 * Meeting Overview & Notes (Coming Soon)
 
 ## Agenda
@@ -22,4 +22,4 @@ This was a hybrid discussion with members of the U.S. federal government and civ
 
 ---
 
-Join the [Open Government Mailing List](https://groups.google.com/g/us-open-government) for updates.
+Join the [Open Government Mailing List](https://open.usa.gov/mailing-list/) for updates.
