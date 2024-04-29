@@ -1,9 +1,9 @@
 
 ---
 layout: home
-title: April 55, 2024 Open Government Data Forum
+title: April 25, 2024 Open Government Data Forum
 body-class: about
-permalink: /meeting/february-2024-public-meeting/
+permalink: /meeting/April-25-2024-Open-Government-Data-Forum/
 ---
 
 * [Agenda](assets/files/04252024_Open_Government_Data_Forum_Agenda.pdf)
