@@ -16,9 +16,7 @@ This was a hybrid discussion with members of the U.S. federal government and civ
 
 ## Recording of the Meeting
 
-<div class="video-container" style="margin-bottom: 5em">
-<iframe src="https://www.youtube.com/embed/brOGRRXcOMY?si=goDr-MkAGTu5rmVb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+Video Recording Comming Soon
 
 ---
 
