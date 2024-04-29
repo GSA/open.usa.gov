@@ -6,7 +6,7 @@ permalink: /national-action-plan/5/schedule-of-open-govt-public-meetings/
 ---
 
 #### Fifth Open Government National Action Plan
-_Updated March 27 2024_
+_Updated April 29 2024_
 
 
 Since releasing the [Fifth Open Government National Action Plan](../) in December 2022, the Federal Government began implementing the many commitments outlined within it. In advance of publishing progress toward those commitments, the Open Government Working Group is releasing the schedule of virtual engagement sessions below with registration links. Each session will focus on one or two themes and during the session, agency representatives will report on the progress of implementation and upcoming milestones for commitments within the theme. These virtual engagement sessions will also offer the opportunity for civil society stakeholders and the public to provide feedback and ask questions regarding the risks and challenges related to implementation. We look forward to collaborating with you.
