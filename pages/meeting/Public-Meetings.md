@@ -32,7 +32,7 @@ Registration information for these events will be posted here in the weeks leadi
 ### Past Meetings:
 
 #### April 2024
-* April 25, 2:00 p.m. - 4:00 p.m. ET – Open Government Data Forum – [Meeting Record](/meeting/April_25_2025_Open_Government_Data_Forum/)
+* April 25, 2:00 p.m. - 4:00 p.m. ET – Open Government Data Forum – [Meeting Record](pages/meeting/April_25_2024_Open_Government_Data_Forum.md)
 
 #### February 2024
 * February 5, 10:00 a.m. - 12:30 p.m. ET – Open Government Secretariat & Open Government Roundtable Civil Society Meeting. – [Meeting Record](/meeting/february-2024-public-meeting/)
