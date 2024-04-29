@@ -5,8 +5,8 @@ body-class: about
 permalink: /meeting/April-25-2024-Open-Government-Data-Forum/
 ---
 
-* [Agenda](assets/files/04252024_Open_Government_Data_Forum_Agenda.pdf)
-* [Meeting slides](assets/files/04252024_Open_Data_Forum_Slides.pdf)
+* [Agenda](assets/files/04252024-Open-Government-Data-Forum-Agenda.pdf)
+* [Meeting slides](assets/files/04252024-Open-Data-Forum-Slides.pdf)
 * Meeting Overview & Notes (Coming Soon)
 
 ## Agenda
