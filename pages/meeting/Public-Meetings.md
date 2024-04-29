@@ -6,7 +6,7 @@ permalink: /national-action-plan/5/schedule-of-open-govt-public-meetings/
 ---
 
 #### Fifth Open Government National Action Plan
-_Updated March 27 2024_
+_Updated April 29 2024_
 
 
 Since releasing the [Fifth Open Government National Action Plan](../) in December 2022, the Federal Government began implementing the many commitments outlined within it. In advance of publishing progress toward those commitments, the Open Government Working Group is releasing the schedule of virtual engagement sessions below with registration links. Each session will focus on one or two themes and during the session, agency representatives will report on the progress of implementation and upcoming milestones for commitments within the theme. These virtual engagement sessions will also offer the opportunity for civil society stakeholders and the public to provide feedback and ask questions regarding the risks and challenges related to implementation. We look forward to collaborating with you.
@@ -22,16 +22,17 @@ Registration information for these events will be posted here in the weeks leadi
 * **RSVP:**  <a href="https://gsa.zoomgov.com/meeting/register/vJIsf-GrrD0qHPHlwkXBdEWLmvdqC56QMX0">https://gsa.zoomgov.com/meeting/register/vJIsf-GrrD0qHPHlwkXBdEWLmvdqC56QMX0</a>. (If you require any special accommodations, please email <a href="opengovernmentsecretariat@gsa.gov">opengovernmentsecretariat@gsa.gov</a>.)<br><br>
 
 
-**April 25th** - Your organization is invited to join a hybrid discussion with members of the U.S. federal government and civil society involved in advancing open data principles, hosted by the U.S. General Services Administration’s (GSA) Open Government Secretariat, the Federal Chief Data Officers (CDO) Council, the Data Foundation (a nonpartisan organization that conducts research, collaborative thought leadership, and advocacy programs to advance practical policies for the creation and use of accessible, trustworthy data), and the Open Gov Hub (a coworking and event space that works to bring together like-minded organizations that are focused on government Transparency, Accountability, and Civic Participation).
-* **Date:** Thursday, April 25th, 2024<br>
-* **Time:** 2:00 pm - 4:00 pm ET<br>
-* **Location**: Open Gov Hub, 1100 13th St NW STE 800, Washington, DC 20005 (in person and virtual)<br>
-* **RSVP:** Due to space constraints, no more than two participants per organization can attend in person. There is no limit on virtual participation and all are welcome. <br>
-    * **IN PERSON RSVP** by 5:00pm ET on 4/22/2024 <a href="https://docs.google.com/forms/d/e/1FAIpQLScHgPGl3-ukmK4bojzLvgV1u_zXCn-_SxGaSAyQeJjTbp3u8Q/viewform?usp=sf_link">HERE</a><br>
-    * **VIRTUAL RSVP** by 5:00pm ET on 4/23/2024 <a href="https://gsa.zoomgov.com/meeting/register/vJItdeCtpjoiHJKC-s7rx_oOynQ0MGqm0q4">HERE</a><br>
+**May 10th** - On April 26, 2024 the U.S. General Services Administration (GSA) released a <a href="https://www.federalregister.gov/documents/2024/04/26/2024-08970/notice-of-intent-to-establish-a-federal-advisory-committee-and-call-for-nominations">Federal Registar Notice</a> detailing our intent to establish a Open Government Federal Advisory Committee (OG FAC), as well as a call for nominations for members of that commmittee. The Open Government Secretariat supports ensuring a more transparent, responsive and inclusive Federal Government. This is done by providing channels for members of the public to regularly engage with their government. The OG FAC will advise GSA in its endeavor to increase the public's access to data, to better advance equity, engage the public in the regulatory process, make government records more accessible, and improve the delivery of government services and benefits through expert advice. The OG FAC will serve as an advisory body to GSA on GSA Open Government initiatives including GSA's creation, implementation and monitoring of U.S. Open Government National Action Plans (NAPs) and commitment themes. The initial focus for the OG FAC will be to provide advice to GSA on the development of NAP 6, Open Government Policy, and Public Engagement. The OG FAC will advise GSA's Administrator on emerging open government issues, challenges and opportunities to support GSA's Open Government Secretariat. We are hosting a virtual Question and Answer (Q&A) session on May 10, 2024 at 1:00pm ET. The purpose of the Q&A session is to answer questions on the selection process and timeline. The Q&A session will be recorded and will be posted to the GSA YouTube Channel, on the Open Government Secretariat Playlist. 
+* **Date:** Thursday, May 10th, 2024<br>
+* **Time:** 1:00 pm - 2:30 pm ET<br>
+* **Location**: Virtual Only, registration required<br>
+* **RSVP:** <a href="https://gsa.zoomgov.com/meeting/register/vJIsf-GrrD0qHPHlwkXBdEWLmvdqC56QMX0#/registration">HERE</a><br>
 
 
 ### Past Meetings:
+
+#### April 2024
+* April 25, 2:00 p.m. - 4:00 p.m. ET – Open Government Data Forum – [Meeting Record](/meeting/April-25-2024-Open-Government-Data-Forum/)
 
 #### February 2024
 * February 5, 10:00 a.m. - 12:30 p.m. ET – Open Government Secretariat & Open Government Roundtable Civil Society Meeting. – [Meeting Record](/meeting/february-2024-public-meeting/)

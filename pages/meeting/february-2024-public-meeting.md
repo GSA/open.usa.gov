@@ -5,7 +5,7 @@ body-class: about
 permalink: /meeting/february-2024-public-meeting/
 ---
 
-* [Agenda](/assets/files/02052024_Open_Government_Secretariat_Open Government_Roundtable- Civil_Society_Meeting_Agenda.pdf)
+* [Agenda](assets/files/02052024-Open-Government-Secretariat-Open-Government-Roundtable-Civil-Society-Meeting-Agenda.pdf)
 * [Meeting slides](/assets/files/02.05.24_Open_Government_Secretariat_and_Open_Government_Roundtable_Civil_Society_Meeting_.pptx)
 * [Meeting Overview & Notes](/assets/files/02.05.24_Engagement_Session_Meeting_Overview.pdf)
 * [Miro Board Activity Screen Captures](/assets/files/2-5-24-DC-Civil-Society-Meetup-(GSA).pdf)
