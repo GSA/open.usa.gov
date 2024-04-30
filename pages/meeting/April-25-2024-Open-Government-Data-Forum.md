@@ -7,7 +7,7 @@ permalink: /meeting/April-25-2024-Open-Government-Data-Forum/
 
 * [Agenda](/assets/files/04252024-Open-Government-Data-Forum-Agenda.pdf)
 * [Meeting slides](/assets/files/04252024-Open-Data-Forum-Slides.pdf)
-* Meeting Overview & Notes (Coming Soon)
+* [Meeting Overview & Notes](/assets/files/04.25.24_Open_Government_Data_Forum_Meeting_Overview.pdf)
 * [Written Public Comments](/assets/files/04252024-Open-Government-Data-Forum-Written-Public-Comments.pdf)
 
 ## Agenda
