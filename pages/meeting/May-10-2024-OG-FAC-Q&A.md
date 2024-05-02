@@ -2,7 +2,7 @@
 layout: home
 title: May 10, 2024 Open Government Federal Advisory Committee (OG FAC) Public Q&A
 body-class: about
-permalink: /meeting/May_10_2024_OG_FAC_Q&A/
+permalink: /meeting/May-10-2024-OG-FAC-Q&A/
 ---
 
 * Agenda (Coming Soon) 
