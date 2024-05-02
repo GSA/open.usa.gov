@@ -26,6 +26,7 @@ Registration information for these events will be posted here in the weeks leadi
 
 #### May 2024
 * May 2, 1:30 p.m. - 3:00 p.m. ET – Public Participation and Community Cngagement (PPCE) RFI Listening Session – [Meeting Record](/meeting/May-2-2024-PPCE-RFI-listening-session/)
+* May 10, 1:00 p.m. - 2:30 p.m. ET – Open Government Federal Advisory Committee (OG FAC) Public Q&A – [Meeting Record](/meeting/May-10-2024-OG-FAC-Q&A/)
 
 #### April 2024
 * April 25, 2:00 p.m. - 4:00 p.m. ET – Open Government Data Forum – [Meeting Record](/meeting/April-25-2024-Open-Government-Data-Forum/)
