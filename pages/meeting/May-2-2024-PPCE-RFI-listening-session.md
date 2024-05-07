@@ -7,7 +7,7 @@ permalink: /meeting/May-2-2024-PPCE-RFI-listening-session/
 
 * [Agenda](/assets/files/05022024_PPCE_RFI_Agenda.pdf)
 * [Meeting slides](/assets/files/05022024_OG_PPCE_Listening_Session_Presentation.pdf)
-* Meeting Overview & Notes (Comming Soon)
+* [Meeting Overview & Notes](/assets/files/05022024_PPCE_RFI_Meeting_Overview.pdf)
 * [Chat Text](/assets/files/05022024_OpenGov_PPCE_Listening_Session_saved_chat.pdf) 
 
 ## Agenda
