@@ -5,7 +5,7 @@ body-class: about
 permalink: /meeting/May-10-2024-OG-FAC-Q&A/
 ---
 
-* Agenda (Coming Soon) 
+* [Agenda](/assets/files/5.10.2024-FAC-Application-Q&A-Agenda.pdf) 
 * Meeting slides (Coming Soon)
 * Meeting Overview & Notes (Comming Soon)
 * [OG FAC Summary Fact Sheet](/assets/files/05102024-OG-FAC-Summary-Fact-Sheet.pdf)
