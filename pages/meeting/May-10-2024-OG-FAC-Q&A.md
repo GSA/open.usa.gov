@@ -8,7 +8,7 @@ permalink: /meeting/May-10-2024-OG-FAC-Q&A/
 * [Agenda](/assets/files/5.10.2024-FAC-Application-Q&A-Agenda.pdf) 
 * [Meeting slides](/assets/files/05102024-OGFAC-Q&A-Session-Presentation.pdf)
 * Meeting Overview & Notes (Coming Soon)
-* [Meeting Q&A](/assets/files/20240510-Q&A-Report.pdf)
+* [Meeting Q&A](/assets/files/2024-05-10_Q&A-Report.pdf)
 * [OG FAC Summary Fact Sheet](/assets/files/05102024-OG-FAC-Summary-Fact-Sheet.pdf)
 
 ## Agenda
