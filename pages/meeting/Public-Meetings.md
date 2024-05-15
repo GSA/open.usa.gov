@@ -6,11 +6,18 @@ permalink: /national-action-plan/5/schedule-of-open-govt-public-meetings/
 ---
 _Updated May 15 2024_
 
-Welcome to our Public Meetings page, where you can view details about upcoming events and access records from past gatherings. You’ll find meeting agendas, registration links, and a variety of resources from previous events, including slides, notes, and recordings. We hope these tools will help you stay informed and actively participate in the important discussion around transparency, government accountability, and civil participation in the U.S..
+Welcome to our Public Meetings page, where you can view details about upcoming events and access records from past gatherings. You’ll find meeting agendas, registration links, and a variety of resources from previous events, including slides, notes, and recordings. We hope these tools will help you stay informed and actively participate in the important discussion around transparency, government accountability, and civil participation in the U.S..<br><br>
 
 
 ### Upcoming Meeting:
-     (Comming Soon)
+
+### **Wednesday, May 29, 2024**<br>
+**Strengthening Democracy and Improving Our Communities Across All Levels of Government: The United States Experience:** This session will explore ways in which open government approaches are strengthening democracy and improving communities at the federal, state, local, Tribal, and territorial (SLTT) levels across the United States. Featuring experiences from across the country, SLTT and federal leaders will discuss opportunities and challenges in open government and share lessons learned.<br>
+* **Date:** Wednesday, May 29, 2024 <br>
+* **Time:** 1:00 – 3:00 pm EST <br>
+* **Location:** Virtual Only (Registration Required) <br>
+* **Link to Register:** [HERE](https://gsa.zoomgov.com/meeting/register/vJItdemurDgjH6vPNAwQRdz8l-XIGTv_gbY) <br><br>
+
 
 
 ### Past Meetings:
