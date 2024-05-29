@@ -4,19 +4,14 @@ body-class: nap4
 title: "Schedule of Open Govt Public Meetings"
 permalink: /national-action-plan/5/schedule-of-open-govt-public-meetings/
 ---
-_Updated May 15 2024_
+_Updated May 29 2024_
 
 Welcome to our Public Meetings page, where you can view details about upcoming events and access records from past gatherings. You’ll find meeting agendas, registration links, and a variety of resources from previous events, including slides, notes, and recordings. We hope these tools will help you stay informed and actively participate in the important discussion around transparency, government accountability, and civil participation in the U.S..<br><br>
 
 
 ### Upcoming Meeting:
 
-### **Wednesday, May 29, 2024**<br>
-**Strengthening Democracy and Improving Our Communities Across All Levels of Government: The United States Experience:** This session will explore ways in which open government approaches are strengthening democracy and improving communities at the federal, state, local, Tribal, and territorial (SLTT) levels across the United States. Featuring experiences from across the country, SLTT and federal leaders will discuss opportunities and challenges in open government and share lessons learned.<br>
-* **Date:** Wednesday, May 29, 2024 <br>
-* **Time:** 1:00 – 3:00 pm EST <br>
-* **Location:** Virtual Only (Registration Required) <br>
-* **Link to Register:** [HERE](https://gsa.zoomgov.com/meeting/register/vJItdemurDgjH6vPNAwQRdz8l-XIGTv_gbY) <br><br>
+Future Public Meetings will be Posted soon
 
 
 
@@ -25,6 +20,7 @@ Welcome to our Public Meetings page, where you can view details about upcoming e
 #### May 2024
 * May 2, 1:30 p.m. - 3:00 p.m. ET – Public Participation and Community Engagement (PPCE) RFI Listening Session – [Meeting Record](/meeting/May-2-2024-PPCE-RFI-listening-session/)
 * May 10, 1:00 p.m. - 2:30 p.m. ET – Open Government Federal Advisory Committee (OG FAC) Public Q&A – [Meeting Record](/meeting/May-10-2024-OG-FAC-Q&A/)
+* May 29, 1:00 p.m - 3:00 p.m. ET – Strengthening Democracy and Improving Our Communities Across All Levels of Government: The United States Experience [Meeting Record](/meeting/May-29-2024-Open-Gov-Week/)
 
 #### April 2024
 * April 25, 2:00 p.m. - 4:00 p.m. ET – Open Government Data Forum – [Meeting Record](/meeting/April-25-2024-Open-Government-Data-Forum/)
