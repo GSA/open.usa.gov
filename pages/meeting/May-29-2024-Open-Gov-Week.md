@@ -1,8 +1,8 @@
 ---
 layout: home
-title: May 29, 2024 Strengthening Democracy and Improving Our Communities Across All Levels of Government: The United States Experience
+title: May 29, 2024 Strengthening Democracy and Improving Our Communities Across All Levels of Government The United States Experience
 body-class: about
-permalink: /meeting/May-29-2024-Open-Gov-Week/
+permalink: /meeting/May-29-2024-Open-Gov-Week/ 
 ---
 
 * [Agenda](/assets/files/05292024_Open_Gov_Week_Event_Agenda_FINAL.pdf) 
