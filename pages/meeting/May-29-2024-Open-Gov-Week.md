@@ -5,7 +5,7 @@ body-class: about
 permalink: /meeting/May-29-2024-Open-Gov-Week/ 
 ---
 
-* [Agenda](/assets/files/05292024_Open_Gov_Week_Event_Agenda_FINAL.pdf) 
+* [Agenda](/assets/05292024_Open_Gov_Week_Event_Agenda_FINAL.pdf) 
 * [Meeting slides](/assets/05292024_FINAL_Open_Gov_Week_Presentation.pdf)
 * Meeting Overview & Notes - Comming Soon
 * Meeting Q&A - Comming Soon
