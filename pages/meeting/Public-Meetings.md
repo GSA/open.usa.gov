@@ -4,7 +4,7 @@ body-class: nap4
 title: "Schedule of Open Govt Public Meetings"
 permalink: /national-action-plan/5/schedule-of-open-govt-public-meetings/
 ---
-_Updated June 4 2024_
+_Updated June 5 2024_
 
 Welcome to our Public Meetings page, where you can view details about upcoming events and access records from past gatherings. You’ll find meeting agendas, registration links, and a variety of resources from previous events, including slides, notes, and recordings. We hope these tools will help you stay informed and actively participate in the important discussion around transparency, government accountability, and civil participation in the U.S..<br><br>
 
