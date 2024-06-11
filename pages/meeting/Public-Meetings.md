@@ -13,7 +13,7 @@ Welcome to our Public Meetings page, where you can view details about upcoming e
 
 **June 24, 2024** - The [NTIS Federal Advisory Committee](https://www.federalregister.gov/documents/2024/04/15/2024-07918/national-technical-information-service-advisory-board#mai) has asked the U.S. Open Government Secretariat to speak at their meeting on June 24, 2024, which runs from 12:30 PM to 4:30 PM ET. You can find the agenda and additional information [HERE](https://www.ntis.gov/about/advisorybd/index.xhtml).<br><br>
 
-**July 15, 2024 - $\color{red}{\textsf{SAVE THE DATE}}$** - The U.S. Open Government Secretariat and the [Washington Coalition for Open Government (WashCOG)](https://www.washcog.org/) are planning to hold a hybrid discussion focusing on Open Government in the Pacific Northwest, as well as current open government initiatives happening at the federal level. This gathering will be both informational and participatory. It will include speakers from federal agencies, state government (invited), and civil society. 
+**July 15, 2024 - <span style="color:red">SAVE THE DATE</span>** - The U.S. Open Government Secretariat and the [Washington Coalition for Open Government (WashCOG)](https://www.washcog.org/) are planning to hold a hybrid discussion focusing on Open Government in the Pacific Northwest, as well as current open government initiatives happening at the federal level. This gathering will be both informational and participatory. It will include speakers from federal agencies, state government (invited), and civil society. 
 * **Date:** Monday, July 15th, 2024
 * **Time:** 10:00 AM - 2:00 PM PT (1:00 - 5:00 pm ET)
 * **Location:** Hybrid, with in-person being held in Oak Harbor, Washington State
