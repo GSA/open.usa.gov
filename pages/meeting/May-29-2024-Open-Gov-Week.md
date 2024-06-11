@@ -8,7 +8,7 @@ permalink: /meeting/May-29-2024-Open-Gov-Week/
 * [Agenda](/assets/05292024_Open_Gov_Week_Event_Agenda_FINAL.pdf) 
 * [Meeting slides](/assets/05292024_FINAL_Open_Gov_Week_Presentation.pdf)
 * [Meeting Overview & Notes](/assets/files/05292024_Open_Gov_Week_Event_Meeting_Overview.pdf)
-* [Meeting Q&A](/assets/files/05292024_Q&A_Report.xlsx)
+* [Meeting Q&A](/assets/files/05292024_Q&A_Report.pdf)
 
 ## Agenda
 This session will explore ways in which open government approaches are strengthening democracy and improving communities at the federal, state, local, Tribal, and territorial (SLTT) levels across the United States. Featuring experiences from across the country, SLTT and federal leaders will discuss opportunities and challenges in open government and share lessons learned.
