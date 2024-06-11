@@ -19,7 +19,7 @@ Welcome to our Public Meetings page, where you can view details about upcoming e
 * **Location:** Hybrid, with in-person being held in Oak Harbor, Washington State
 * **Registration:** Stay tuned; more info to come soon.<br><br>
 
-**September 17, 2024 - $\color{red}{\textsf{SAVE THE DATE}}$** - The U.S. Open Government Secretariat and the City of Austin government officials are organizing an in-person event with the [City of Austin, TX,](https://www.austintexas.gov/department/open-government-information) and local civil society. More information on this session will be coming out in the coming months. <br><br>
+**September 17, 2024 - <span style="color:red">SAVE THE DATE</span>** - The U.S. Open Government Secretariat and the City of Austin government officials are organizing an in-person event with the [City of Austin, TX,](https://www.austintexas.gov/department/open-government-information) and local civil society. More information on this session will be coming out in the coming months. <br><br>
 
 **December 3-6, 2024** - [Open Government Partnership](https://www.opengovpartnership.org/about/) will  hold an Americas Regional Meeting in Brasilia, Brazil. This is a unique opportunity to bring together the open government and open data communities for four days of exchanging experiences, innovative ideas/initiatives, and recognizing ambitious reforms in the Americas. You can find more information [HERE](https://www.gov.br/cgu/pt-br/acesso-a-informacao/institucional/eventos/america-aberta/open-america).<br><br><br>
 
