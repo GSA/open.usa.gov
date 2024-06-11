@@ -4,7 +4,7 @@ body-class: nap4
 title: "Schedule of Open Govt Public Meetings"
 permalink: /national-action-plan/5/schedule-of-open-govt-public-meetings/
 ---
-_Updated June 6 2024_
+_Updated June 11 2024_
 
 Welcome to our Public Meetings page, where you can view details about upcoming events and access records from past gatherings. You’ll find meeting agendas, registration links, and a variety of resources from previous events, including slides, notes, and recordings. We hope these tools will help you stay informed and actively participate in the important discussion around transparency, government accountability, and civil participation in the U.S..<br><br>
 
@@ -13,13 +13,13 @@ Welcome to our Public Meetings page, where you can view details about upcoming e
 
 **June 24, 2024** - The [NTIS Federal Advisory Committee](https://www.federalregister.gov/documents/2024/04/15/2024-07918/national-technical-information-service-advisory-board#mai) has asked the U.S. Open Government Secretariat to speak at their meeting on June 24, 2024, which runs from 12:30 PM to 4:30 PM ET. You can find the agenda and additional information [HERE](https://www.ntis.gov/about/advisorybd/index.xhtml).<br><br>
 
-**July 15, 2024 - $\color{red}{\textsf{SAVE THE DATE}}$** - The U.S. Open Government Secretariat and the [Washington Coalition for Open Government (WashCOG)](https://www.washcog.org/) are planning to hold a hybrid discussion focusing on Open Government in the Pacific Northwest, as well as current open government initiatives happening at the federal level. This gathering will be both informational and participatory. It will include speakers from federal agencies, state government (invited), and civil society. 
+**July 15, 2024 - <span style="color:red">SAVE THE DATE</span>** - The U.S. Open Government Secretariat and the [Washington Coalition for Open Government (WashCOG)](https://www.washcog.org/) are planning to hold a hybrid discussion focusing on Open Government in the Pacific Northwest, as well as current open government initiatives happening at the federal level. This gathering will be both informational and participatory. It will include speakers from federal agencies, state government (invited), and civil society. 
 * **Date:** Monday, July 15th, 2024
 * **Time:** 10:00 AM - 2:00 PM PT (1:00 - 5:00 pm ET)
 * **Location:** Hybrid, with in-person being held in Oak Harbor, Washington State
 * **Registration:** Stay tuned; more info to come soon.<br><br>
 
-**September 17, 2024 - $\color{red}{\textsf{SAVE THE DATE}}$** - The U.S. Open Government Secretariat and the City of Austin government officials are organizing an in-person event with the [City of Austin, TX,](https://www.austintexas.gov/department/open-government-information) and local civil society. More information on this session will be coming out in the coming months. <br><br>
+**September 17, 2024 - <span style="color:red">SAVE THE DATE</span>** - The U.S. Open Government Secretariat and the City of Austin government officials are organizing an in-person event with the [City of Austin, TX,](https://www.austintexas.gov/department/open-government-information) and local civil society. More information on this session will be coming out in the coming months. <br><br>
 
 **December 3-6, 2024** - [Open Government Partnership](https://www.opengovpartnership.org/about/) will  hold an Americas Regional Meeting in Brasilia, Brazil. This is a unique opportunity to bring together the open government and open data communities for four days of exchanging experiences, innovative ideas/initiatives, and recognizing ambitious reforms in the Americas. You can find more information [HERE](https://www.gov.br/cgu/pt-br/acesso-a-informacao/institucional/eventos/america-aberta/open-america).<br><br><br>
 
