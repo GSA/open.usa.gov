@@ -13,7 +13,7 @@ Welcome to our Public Meetings page, where you can view details about upcoming e
 
 **June 24, 2024** - The [NTIS Federal Advisory Committee](https://www.federalregister.gov/documents/2024/04/15/2024-07918/national-technical-information-service-advisory-board#mai) has asked the U.S. Open Government Secretariat to speak at their meeting on June 24, 2024, which runs from 12:30 PM to 4:30 PM ET. You can find the agenda and additional information [HERE](https://www.ntis.gov/about/advisorybd/index.xhtml).<br><br>
 
-**July 15, 2024** - We’re pleased to invite you to join in a hybrid discussion co-organized by the U.S. Open Government Secretariat and the [Washington Coalition for Open Government (WashCOG)](https://www.washcog.org/). Hosted by Sarah Schacht and the Allgire Project on Whidbey Island, Washington, this event will introduce civil society in the Pacific Northwest to open government activities at the federal level and discuss open government at the state/local level. We intend for this gathering to be both informational and participatory, and we hope to include speakers from both government and civil society. The first hour will feature presentations covering topics that range from defining open government as a concept, to examining open government efforts at the state and federal levels (see tentative agenda below). The second half will be in person only and will feature a breakout group activity. 
+**July 15, 2024** - We’re pleased to invite you to join in a hybrid discussion co-organized by the U.S. Open Government Secretariat and the [Washington Coalition for Open Government (WashCOG)](https://www.washcog.org/). Hosted by Sarah Schacht and the Allgire Project on Whidbey Island, Washington, this event will introduce civil society in the Pacific Northwest to open government activities at the federal level and discuss open government at the state/local level. We intend for this gathering to be both informational and participatory, and we hope to include speakers from both government and civil society. The first hour will feature presentations covering topics that range from defining open government as a concept, to examining open government efforts at the state and federal levels. The second half will be in person only and will feature a breakout group activity. 
 * **Date:** Monday, July 15th, 2024
 * **Time:** 10:00 AM - 2:00 PM PT (1:00 - 5:00 PM ET) with a 1 hour break in the middle 
 * **Location:** 740 SE Pioneer Way, Oak Harbor, Washington 98277 (and online)
@@ -31,7 +31,7 @@ Welcome to our Public Meetings page, where you can view details about upcoming e
 #### May 2024
 * May 2, 1:30 p.m. - 3:00 p.m. ET – Public Participation and Community Engagement (PPCE) RFI Listening Session – [Meeting Record](/meeting/May-2-2024-PPCE-RFI-listening-session/)
 * May 10, 1:00 p.m. - 2:30 p.m. ET – Open Government Federal Advisory Committee (OG FAC) Public Q&A – [Meeting Record](/meeting/May-10-2024-OG-FAC-Q&A/)
-* May 29, 1:00 p.m - 3:00 p.m. ET – Strengthening Democracy and Improving Our Communities Across All Levels of Government: The United States Experience [Meeting Record](/meeting/May-29-2024-Open-Gov-Week/)
+* May 29, 1:00 p.m - 3:00 p.m. ET – Strengthening Democracy and Improving Our Communities Across All Levels of Government: The United States Experience - [Meeting Record](/meeting/May-29-2024-Open-Gov-Week/)
 
 #### April 2024
 * April 25, 2:00 p.m. - 4:00 p.m. ET – Open Government Data Forum – [Meeting Record](/meeting/April-25-2024-Open-Government-Data-Forum/)
