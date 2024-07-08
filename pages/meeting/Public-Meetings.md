@@ -4,7 +4,7 @@ body-class: nap4
 title: "Schedule of Open Govt Public Meetings"
 permalink: /national-action-plan/5/schedule-of-open-govt-public-meetings/
 ---
-_Updated July 5 2024_
+_Updated July 8 2024_
 
 Welcome to our Public Meetings page, where you can view details about upcoming events and access records from past gatherings. You’ll find meeting agendas, registration links, and a variety of resources from previous events, including slides, notes, and recordings. We hope these tools will help you stay informed and actively participate in the important discussion around transparency, government accountability, and civil participation in the U.S..<br><br>
 
@@ -17,6 +17,7 @@ Welcome to our Public Meetings page, where you can view details about upcoming e
 * **Location:** 740 SE Pioneer Way, Oak Harbor, Washington 98277 (and online)
 * **Registration:** Due to space constraints, no more than two participants per organization can attend in person. There is no limit on virtual participation and all are welcome.<br>
   * **IN PERSON RSVP** by <span style="color:red">5:00 PM ET on 7/12/2024</span> [HERE](https://forms.gle/zXxKkq96EcbPwzci9) <br>
+   ** Additional In Person Logistic information from WashCOG [HERE](https://secure.smore.com/n/dvpr0)
   * **VIRTUAL RSVP** <span style="color:red">5:00 PM ET on 7/12/2024</span> [HERE](https://gsa.zoomgov.com/meeting/register/vJItdOuhrzgqGcp3ntcOZLgMZPdGLo2fQsc)<br><br>
 
 **September 17, 2024 - <span style="color:red">SAVE THE DATE</span>** - The U.S. Open Government Secretariat and the City of Austin government officials are organizing an in-person event with the [City of Austin, TX,](https://www.austintexas.gov/department/open-government-information) and local civil society. More information on this session will be coming out in the coming months. <br><br>
