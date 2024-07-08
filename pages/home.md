@@ -11,7 +11,7 @@ This site outlines initiatives on openness, transparency and public participatio
 
 * [Fifth National Action Plan for Open Government (2022-2024)](/national-action-plan/5/) ([Commitment Tracker](/national-action-plan/5/commitments/)) (Updated March 26, 2024)
 
-* [Public Meetings](/national-action-plan/5/schedule-of-open-govt-public-meetings/) (Updated July 5, 2024)
+* [Public Meetings](/national-action-plan/5/schedule-of-open-govt-public-meetings/) (Updated July 8, 2024)
 
 * Read the [press release](https://www.whitehouse.gov/ostp/news-updates/2022/12/28/white-house-releases-fifth-open-government-national-action-plan-to-advance-a-more-inclusive-responsive-and-accountable-government/) for the Fifth U.S. National Action Plan for Open Government on [WhiteHouse.gov](https://www.whitehouse.gov/ostp/news-updates/2022/12/28/white-house-releases-fifth-open-government-national-action-plan-to-advance-a-more-inclusive-responsive-and-accountable-government/)
 
@@ -19,7 +19,9 @@ This site outlines initiatives on openness, transparency and public participatio
 
 * [Mid-Term Self-Assessment](/national-action-plan/5/NAP5-Self-Assessment/)
   
-* Open Government Federal Advisory Committee (OG FAC) [Federal Registar Notice](https://www.federalregister.gov/documents/2024/04/26/2024-08970/notice-of-intent-to-establish-a-federal-advisory-committee-and-call-for-nominations)
+* Open Government Federal Advisory Committee (OG FAC)
+  * [Federal Register Notice - Intent To Establish](https://www.federalregister.gov/documents/2024/04/26/2024-08970/notice-of-intent-to-establish-a-federal-advisory-committee-and-call-for-nominations)
+  * [Federal Register Notice - Notice of Establishment](https://www.federalregister.gov/documents/2024/06/28/2024-14259/notice-of-establishment-of-a-federal-advisory-committee)
 
 ### Past U.S. National Action Plans
 
