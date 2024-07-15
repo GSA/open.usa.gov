@@ -6,10 +6,10 @@ permalink: /meeting/July-16-2024-WashCOG/
 ---
 
 
-* [Agenda](/assets/07152024_WashCOG_Event_slides.pdf) 
-* David Cuillier - [Why is Open Government important](/assets/David_Cuillier_WCOG_slides.pdf)
-* Dan York - [U.S. Open Government Secretariat Presentation](/assets/07152024_Open_Gov_Sec_WashCOG_Briefing.pdf)
-* Clora Romo - [Open Government Partnership Local Program](/assets/OGP_LOCAL.pdf)
+* [Agenda](/assets/files/07152024_WashCOG_Event_slides.pdf) 
+* David Cuillier - [Why is Open Government important](/assets/files/David_Cuillier_WCOG_slides.pdf)
+* Dan York - [U.S. Open Government Secretariat Presentation](/assets/files/07152024_Open_Gov_Sec_WashCOG_Briefing.pdf)
+* Clora Romo - [Open Government Partnership Local Program](/assets/files/OGP_LOCAL.pdf)
 * Meeting Overview & Notes - Coming Soon
 * Mural Board - Coming Soon
 
