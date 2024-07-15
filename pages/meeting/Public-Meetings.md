@@ -28,7 +28,7 @@ Welcome to our Public Meetings page, where you can view details about upcoming e
 ### Past Meetings:
 
 #### July 2024
-* July 16, 2024 - 10:00 AM - 2:00 PM PT (1:00 - 5:00 PM ET) - PNW Open Government Event -[Meeting Record](meeting/July-16-2024-WashCOG/)
+* July 16, 2024 - 10:00 AM - 2:00 PM PT (1:00 - 5:00 PM ET) - PNW Open Government Event -[Meeting Record](/meeting/July-16-2024-WashCOG/)
 
 #### May 2024
 * May 2, 1:30 p.m. - 3:00 p.m. ET – Public Participation and Community Engagement (PPCE) RFI Listening Session – [Meeting Record](/meeting/May-2-2024-PPCE-RFI-listening-session/)
