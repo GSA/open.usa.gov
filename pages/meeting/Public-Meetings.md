@@ -4,7 +4,7 @@ body-class: nap4
 title: "Schedule of Open Govt Public Meetings"
 permalink: /national-action-plan/5/schedule-of-open-govt-public-meetings/
 ---
-_Updated July 8 2024_
+_Updated July 15 2024_
 
 Welcome to our Public Meetings page, where you can view details about upcoming events and access records from past gatherings. You’ll find meeting agendas, registration links, and a variety of resources from previous events, including slides, notes, and recordings. We hope these tools will help you stay informed and actively participate in the important discussion around transparency, government accountability, and civil participation in the U.S..<br><br>
 
@@ -26,6 +26,9 @@ Welcome to our Public Meetings page, where you can view details about upcoming e
 
 
 ### Past Meetings:
+
+#### July 2024
+* July 16, 2024 - 10:00 AM - 2:00 PM PT (1:00 - 5:00 PM ET) - PNW Open Government Event -[Meeting Record](meeting/July-16-2024-WashCOG/)
 
 #### May 2024
 * May 2, 1:30 p.m. - 3:00 p.m. ET – Public Participation and Community Engagement (PPCE) RFI Listening Session – [Meeting Record](/meeting/May-2-2024-PPCE-RFI-listening-session/)
