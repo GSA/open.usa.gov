@@ -1,6 +1,6 @@
 ---
 layout: home
-title: July 15, 2024 PNW Open Government Event
+title: July 16, 2024 PNW Open Government Event
 body-class: about
 permalink: /meeting/July-16-2024-WashCOG/ 
 ---
