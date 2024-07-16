@@ -4,21 +4,12 @@ body-class: nap4
 title: "Schedule of Open Govt Public Meetings"
 permalink: /national-action-plan/5/schedule-of-open-govt-public-meetings/
 ---
-_Updated July 15 2024_
+_Updated July 17 2024_
 
 Welcome to our Public Meetings page, where you can view details about upcoming events and access records from past gatherings. You’ll find meeting agendas, registration links, and a variety of resources from previous events, including slides, notes, and recordings. We hope these tools will help you stay informed and actively participate in the important discussion around transparency, government accountability, and civil participation in the U.S..<br><br>
 
 
 ### Upcoming Meeting:<br>
-
-**July 15, 2024** - We’re pleased to invite you to join in a hybrid discussion co-organized by the U.S. Open Government Secretariat and the [Washington Coalition for Open Government (WashCOG)](https://www.washcog.org/). Hosted by Sarah Schacht and the Allgire Project on Whidbey Island, Washington, this event will introduce civil society in the Pacific Northwest to open government activities at the federal level and discuss open government at the state/local level. We intend for this gathering to be both informational and participatory, and we hope to include speakers from both government and civil society. The first hour will feature presentations covering topics that range from defining open government as a concept, to examining open government efforts at the state and federal levels. The second half will be in person only and will feature a breakout group activity. 
-* **Date:** Monday, July 15th, 2024
-* **Time:** 10:00 AM - 2:00 PM PT (1:00 - 5:00 PM ET) with a 1 hour break in the middle 
-* **Location:** 740 SE Pioneer Way, Oak Harbor, Washington 98277 (and online)
-* **Registration:** Due to space constraints, no more than two participants per organization can attend in person. There is no limit on virtual participation and all are welcome.<br>
-  * **IN PERSON RSVP** by <span style="color:red">5:00 PM ET on 7/12/2024</span> [HERE](https://forms.gle/zXxKkq96EcbPwzci9) <br>
-   ** Additional In Person Logistic information from WashCOG [HERE](https://secure.smore.com/n/dvpr0)
-  * **VIRTUAL RSVP** <span style="color:red">5:00 PM ET on 7/12/2024</span> [HERE](https://gsa.zoomgov.com/meeting/register/vJItdOuhrzgqGcp3ntcOZLgMZPdGLo2fQsc)<br><br>
 
 **September 17, 2024 - <span style="color:red">SAVE THE DATE</span>** - The U.S. Open Government Secretariat and the City of Austin government officials are organizing an in-person event with the [City of Austin, TX,](https://www.austintexas.gov/department/open-government-information) and local civil society. More information on this session will be coming out in the coming months. <br><br>
 
