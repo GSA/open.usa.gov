@@ -11,15 +11,6 @@ Welcome to our Public Meetings page, where you can view details about upcoming e
 
 ### Upcoming Meeting:<br>
 
-**July 15, 2024** - We’re pleased to invite you to join in a hybrid discussion co-organized by the U.S. Open Government Secretariat and the [Washington Coalition for Open Government (WashCOG)](https://www.washcog.org/). Hosted by Sarah Schacht and the Allgire Project on Whidbey Island, Washington, this event will introduce civil society in the Pacific Northwest to open government activities at the federal level and discuss open government at the state/local level. We intend for this gathering to be both informational and participatory, and we hope to include speakers from both government and civil society. The first hour will feature presentations covering topics that range from defining open government as a concept, to examining open government efforts at the state and federal levels. The second half will be in person only and will feature a breakout group activity. 
-* **Date:** Monday, July 15th, 2024
-* **Time:** 10:00 AM - 2:00 PM PT (1:00 - 5:00 PM ET) with a 1 hour break in the middle 
-* **Location:** 740 SE Pioneer Way, Oak Harbor, Washington 98277 (and online)
-* **Registration:** Due to space constraints, no more than two participants per organization can attend in person. There is no limit on virtual participation and all are welcome.<br>
-  * **IN PERSON RSVP** by <span style="color:red">5:00 PM ET on 7/12/2024</span> [HERE](https://forms.gle/zXxKkq96EcbPwzci9) <br>
-   ** Additional In Person Logistic information from WashCOG [HERE](https://secure.smore.com/n/dvpr0)
-  * **VIRTUAL RSVP** <span style="color:red">5:00 PM ET on 7/12/2024</span> [HERE](https://gsa.zoomgov.com/meeting/register/vJItdOuhrzgqGcp3ntcOZLgMZPdGLo2fQsc)<br><br>
-
 **September 17, 2024 - <span style="color:red">SAVE THE DATE</span>** - The U.S. Open Government Secretariat and the City of Austin government officials are organizing an in-person event with the [City of Austin, TX,](https://www.austintexas.gov/department/open-government-information) and local civil society. More information on this session will be coming out in the coming months. <br><br>
 
 **December 3-6, 2024** - [Open Government Partnership](https://www.opengovpartnership.org/about/) will  hold an Americas Regional Meeting in Brasilia, Brazil. This is a unique opportunity to bring together the open government and open data communities for four days of exchanging experiences, innovative ideas/initiatives, and recognizing ambitious reforms in the Americas. You can find more information [HERE](https://www.gov.br/cgu/pt-br/acesso-a-informacao/institucional/eventos/america-aberta/open-america).<br><br><br>
