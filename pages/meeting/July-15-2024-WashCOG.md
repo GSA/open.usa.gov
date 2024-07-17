@@ -1,8 +1,8 @@
 ---
 layout: home
-title: July 16, 2024 PNW Open Government Event
+title: July 15, 2024 PNW Open Government Event
 body-class: about
-permalink: /meeting/July-16-2024-WashCOG/ 
+permalink: /meeting/July-15-2024-WashCOG/ 
 ---
 
 
@@ -16,8 +16,8 @@ permalink: /meeting/July-16-2024-WashCOG/
 ## Agenda
 We’re pleased to invite you to join in a hybrid discussion co-organized by the U.S. Open Government Secretariat and the [Washington Coalition for Open Government (WashCOG)](https://www.washcog.org/). Hosted by Sarah Schacht and the Allgire Project on Whidbey Island, Washington, this event will introduce civil society in the Pacific Northwest to open government activities at the federal level and discuss open government at the state/local level. We intend for this gathering to be both informational and participatory, and we hope to include speakers from both government and civil society. The first hour will feature presentations covering topics that range from defining open government as a concept, to examining open government efforts at the state and federal levels. The second half will be in person only and will feature a breakout group activity.
 
-## Recording of the Meeting
-Coming Soon
+## Recording of the Meeting <br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q213n-khhrQ?si=nmSInFNsXbKl1Yvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ---
