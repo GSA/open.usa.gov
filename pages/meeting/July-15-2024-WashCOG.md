@@ -10,7 +10,7 @@ permalink: /meeting/July-15-2024-WashCOG/
 * David Cuillier - [Why is Open Government important](/assets/files/David_Cuillier_WCOG_slides.pdf)
 * Dan York - [U.S. Open Government Secretariat Presentation](/assets/files/07152024_Open_Gov_Sec_WashCOG_Briefing.pdf)
 * Clora Romo - [Open Government Partnership Local Program](/assets/files/OGP_LOCAL.pdf)
-* [Meeting Overview & Notes](/assets/files/7_15_24_PNW_Open_Government_Meeting_Overview.pdf)
+* [Meeting Overview & Notes](/assets/files/7_15_24_PNW_Open_Government_Meeting_Overview.doc)
 * [Mural Board](/assets/files/PNW_Breakout_Session_Mural_07_15_2024.pdf)
 
 ## Agenda
