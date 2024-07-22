@@ -4,12 +4,17 @@ body-class: nap4
 title: "Schedule of Open Govt Public Meetings"
 permalink: /national-action-plan/5/schedule-of-open-govt-public-meetings/
 ---
-_Updated July 18 2024_
+_Updated July 22 2024_
 
 Welcome to our Public Meetings page, where you can view details about upcoming events and access records from past gatherings. You’ll find meeting agendas, registration links, and a variety of resources from previous events, including slides, notes, and recordings. We hope these tools will help you stay informed and actively participate in the important discussion around transparency, government accountability, and civil participation in the U.S..<br><br>
 
 
 ### Upcoming Meeting:<br>
+
+**July 29, 2024 - <span style="color:red">SAVE THE DATE</span>** - Open Government in Action: Emerging practices in participatory algorithm design - The U.S. Open Government Secretariat, U.S. Tech Policy Network, and the White House Office of Science and Technology Policy are pleased to invite you a virtual event featuring local and federal officials and academic experts. This 90-min session will highlight experiences implementing participatory algorithm design in government; share research and emerging practices at the global and national levels on this issue; and identify lessons learned to ensure that methods used to design algorithms are equitable and inclusive. <br>
+* **Date:** Monday July 29, 2024
+* **Time:** 3:00 - 4:00 PM ET
+* **Registration Required:** [HERE](https://gsa.zoomgov.com/webinar/register/WN_ZU0mTxDpTduWCIwpByjU7Q) <br><br>
 
 **September 17, 2024 - <span style="color:red">SAVE THE DATE</span>** - The U.S. Open Government Secretariat and the City of Austin government officials are organizing an in-person event with the [City of Austin, TX,](https://www.austintexas.gov/department/open-government-information) and local civil society. More information on this session will be coming out in the coming months. <br><br>
 
@@ -19,7 +24,8 @@ Welcome to our Public Meetings page, where you can view details about upcoming e
 ### Past Meetings:
 
 #### July 2024
-* July 15, 2024 - 10:00 AM - 2:00 PM PT (1:00 - 5:00 PM ET) - PNW Open Government Event -[Meeting Record](/meeting/July-15-2024-WashCOG/)
+* July 15, 2024 - 10:00 a.m. - 2:00 p.m. PT (1:00 - 5:00 PM ET) - PNW Open Government Event -[Meeting Record](/meeting/July-15-2024-WashCOG/)
+* July 29. 2024 - 3:00 p.m. - 4:30 p.m. ET - Open Government in Action: Emerging practices in participatory algorithm design - Meeting Record (Coming Soon)
 
 #### May 2024
 * May 2, 1:30 p.m. - 3:00 p.m. ET – Public Participation and Community Engagement (PPCE) RFI Listening Session – [Meeting Record](/meeting/May-2-2024-PPCE-RFI-listening-session/)
