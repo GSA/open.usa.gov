@@ -13,7 +13,7 @@ Welcome to our Public Meetings page, where you can view details about upcoming e
 
 **July 29, 2024 - <span style="color:red">SAVE THE DATE</span>** - Open Government in Action: Emerging practices in participatory algorithm design - The U.S. Open Government Secretariat, U.S. Tech Policy Network, and the White House Office of Science and Technology Policy are pleased to invite you a virtual event featuring local and federal officials and academic experts. This 90-min session will highlight experiences implementing participatory algorithm design in government; share research and emerging practices at the global and national levels on this issue; and identify lessons learned to ensure that methods used to design algorithms are equitable and inclusive. <br>
 * **Date:** Monday July 29, 2024
-* **Time:** 3:00 - 4:00 PM ET
+* **Time:** 3:00 - 4:30 PM ET
 * **Registration Required:** [HERE](https://gsa.zoomgov.com/webinar/register/WN_ZU0mTxDpTduWCIwpByjU7Q) <br><br>
 
 **September 17, 2024 - <span style="color:red">SAVE THE DATE</span>** - The U.S. Open Government Secretariat and the City of Austin government officials are organizing an in-person event with the [City of Austin, TX,](https://www.austintexas.gov/department/open-government-information) and local civil society. More information on this session will be coming out in the coming months. <br><br>
