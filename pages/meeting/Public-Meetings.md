@@ -4,7 +4,7 @@ body-class: nap4
 title: "Schedule of Open Govt Public Meetings"
 permalink: /national-action-plan/5/schedule-of-open-govt-public-meetings/
 ---
-_Updated July 22 2024_
+_Updated July 25 2024_
 
 Welcome to our Public Meetings page, where you can view details about upcoming events and access records from past gatherings. You’ll find meeting agendas, registration links, and a variety of resources from previous events, including slides, notes, and recordings. We hope these tools will help you stay informed and actively participate in the important discussion around transparency, government accountability, and civil participation in the U.S..<br><br>
 
@@ -12,9 +12,28 @@ Welcome to our Public Meetings page, where you can view details about upcoming e
 ### Upcoming Meeting:<br>
 
 **July 29, 2024 - <span style="color:red">SAVE THE DATE</span>** - Open Government in Action: Emerging practices in participatory algorithm design - The U.S. Open Government Secretariat, U.S. Tech Policy Network, and the White House Office of Science and Technology Policy are pleased to invite you a virtual event featuring local and federal officials and academic experts. This 90-min session will highlight experiences implementing participatory algorithm design in government; share research and emerging practices at the global and national levels on this issue; and identify lessons learned to ensure that methods used to design algorithms are equitable and inclusive. <br>
-* **Date:** Monday July 29, 2024
+
+<ins> **Participants** </ins>
+* Deirdre Mulligan, Principal Deputy U.S. Chief Technology Officer, White House Office of Science and Technology Policy
+* Erin Dalton, Director, Alleghany County Department of Human Services, Allegheny County, PA
+* Sheena Erete, University of Maryland, College of Information Studies
+* Michael Hawes, Senior Advisor for Data Access and Privacy, U.S. Census Bureau
+* Tim Hughes, Lead, Democracy and Participation, Open Government Partnership
+* Zoe Kahn, University of California Berkeley, School of Information
+* Min Kyung Lee, University of Texas at Austin, School of Information
+* Chelsea Palacio, City of San José Public Information Officer, Information Technology Department
+* Emily Royall, Smart City Administrator, Office of Innovation, City of San Antonio, TX and Policy Co-Chair of GovAI Coalition
+* Devansh Saxena, Carnegie Mellon University, School of Computer Science <br>
+
+<ins> **Hosts and Moderators** </ins>
+* Daniel York, Director, U.S. Open Government Secretariat, U.S. General Services Administration
+* Jennifer Anderson Lewis, Senior Advisor for Open Government and Tech Policy, White House Office of Science and Technology Policy (Moderator)
+* Shannon Arvizu, Ph.D., Senior Advisor to the Chief Data Officer, U.S. Department of Commerce (Moderator) <br>
+
+<ins> **Event Details:** </ins>
+* **Date:** Monday July 29, 2024 <br> 
 * **Time:** 3:00 - 4:30 PM ET
-* **Registration Required:** [HERE](https://gsa.zoomgov.com/webinar/register/WN_ZU0mTxDpTduWCIwpByjU7Q) <br><br>
+* **Registration Required:** [HERE](https://gsa.zoomgov.com/webinar/register/WN_ZU0mTxDpTduWCIwpByjU7Q) <br><br><br>
 
 **September 17, 2024 - <span style="color:red">SAVE THE DATE</span>** - The U.S. Open Government Secretariat and the City of Austin government officials are organizing an in-person event with the [City of Austin, TX,](https://www.austintexas.gov/department/open-government-information) and local civil society. More information on this session will be coming out in the coming months. <br><br>
 
