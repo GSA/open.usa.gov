@@ -10,7 +10,7 @@ permalink: /meeting/July-29-2024-Open-Government-in-Action/
 * Meeting Overview & Notes (Coming Soon)
 
 ## Agenda
-he U.S. Open Government Secretariat, U.S. Tech Policy Network, and the White House Office of Science and Technology Policy are pleased to invite you a virtual event featuring local and federal officials and academic experts. This 90-min session will highlight experiences implementing participatory algorithm design in government; share research and emerging practices at the global and national levels on this issue; and identify lessons learned to ensure that methods used to design algorithms are equitable and inclusive.<br>
+The U.S. Open Government Secretariat, U.S. Tech Policy Network, and the White House Office of Science and Technology Policy are pleased to cohost a virtual event featuring local and federal officials and academic experts. This 90-min session highlighted experiences implementing participatory algorithm design in government; share research and emerging practices at the global and national levels on this issue; and identify lessons learned to ensure that methods used to design algorithms are equitable and inclusive.<br>
 
 <ins> **Participants** </ins>
 * Deirdre Mulligan, Principal Deputy U.S. Chief Technology Officer, White House Office of Science and Technology Policy
