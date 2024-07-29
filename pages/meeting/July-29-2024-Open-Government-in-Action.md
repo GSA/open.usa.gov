@@ -1,6 +1,6 @@
 ---
 layout: home
-title: July 29, 2024 Open Government in Action Emerging practices in participatory algorithm design
+title: July 29, 2024 Open Government in Action - Emerging Practices in Participatory Algorithm Design
 body-class: about
 permalink: /meeting/July-29-2024-Open-Government-in-Action/
 ---
