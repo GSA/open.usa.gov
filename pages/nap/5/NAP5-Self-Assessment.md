@@ -58,7 +58,9 @@ In response to the ambitious number and breadth of commitments in NAP 5, the IRM
 
 ## Analysis of the Commitments
 Detailed information on the status of all 36 commitments in the 5th National Action Plan is available on the online tracker. The tracker provides a picture of progress made and challenges encountered, provides links to publicly available sources of evidence, and details the impact the commitments are having on fostering a more transparent, participatory, and accountable government. The Open Government Secretariat updates the tracker based on information provided by each commitment’s designated agency lead during the bi-annual update process. Current information (as of the publication of this document) reflects the second bi-annual status update process conducted in February 2024. <br><br>
+
 The 36 commitments are represented as 70 sub-commitments in the online tracker in order to provide more transparency to the public, better align with the federal agencies performing the work, and show incremental progress towards fulfilling the commitments. The majority of the 36 commitments (23 total, or 64%) are not subdivided into sub-commitments (as denoted on the online tracker by a “###.0” designation, e.g. Commitment 114.0). The remaining 13 commitments are divided into at least two sub-commitments, up to as many as seven sub-commitments (as denoted on the online tracker by a “###.#” designation, e.g. Commitment 113.4 or 139.2).  <br><br>
+
 With the latest bi-annual update, we added new fields to the tracker to better inform stakeholders about the progress of the commitments, as well as enable the identification of bottlenecks and support strategizing about future actions to ensure the fulfillment of the overarching objectives of NAP 5. The original fields from August 2023 along with the new fields (in italics) added for the February 2024 update are shown in the table below: <br>
 
 <style>
@@ -112,6 +114,7 @@ With the latest bi-annual update, we added new fields to the tracker to better i
 </table>
 
 The following section offers a series of charts that show various summary perspectives of the 36 commitments outlined in the plan. These visualizations provide an at-a-glance view of the distribution, progress, and thematic areas of the commitments, and are intended to give stakeholders a more intuitive understanding of NAP 5’s scope and status.  <br><br>
+
 **NAP 5 Overview**<br>
 Chart 1<br><br>
 <img src="/pages/nap/5/NAP5Picture1.png" alt="Chart 1 is a donut chart shows that of the 36 commitment in the U.S. NAP 5, 4 are related to Increase Civic Space to Engage the Public, 13 are related to Counter Corruption and Ensure Government Integrity and Accountability to the Public, 8 are related to Improve Access to Government Data, Research, and Information, 6 are related to Ensure Equal Justice Under the Law, and 5 are related to Transform Government Service Delivery." width="600" height="375"> <br><br>
