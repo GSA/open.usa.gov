@@ -63,53 +63,30 @@ The 36 commitments are represented as 70 sub-commitments in the online tracker i
 
 With the latest bi-annual update, we added new fields to the tracker to better inform stakeholders about the progress of the commitments, as well as enable the identification of bottlenecks and support strategizing about future actions to ensure the fulfillment of the overarching objectives of NAP 5. The original fields from August 2023 along with the new fields (in italics) added for the February 2024 update are shown in the table below: <br>
 
-<style>
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    margin: 20px 0;
-  }
-  th, td {
-    border: 1px solid #ddd;
-    padding: 8px;
-    text-align: left;
-  }
-  th {
-    background-color: #333;
-    color: #fff;
-  }
-  tr:nth-child(even) {
-    background-color: #f2f2f2;
-  }
-  tr:hover {
-    background-color: #ddd;
-  }
-</style>
-
-<table>
-  <tr>
-    <th>August 2023 Update</th>
-    <th>February 2024 Updates</th>
+<table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
+  <tr style="background-color: #333; color: #fff;">
+    <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">August 2023 Update</th>
+    <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">February 2024 Updates</th>
   </tr>
   <tr>
-    <td>Commitment Number</td>
-    <td>Commitment Number</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Commitment Number</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Commitment Number</td>
+  </tr>
+  <tr style="background-color: #f2f2f2;">
+    <td style="border: 1px solid #ddd; padding: 8px;">Agency</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Agency & Sub-Agency</td>
   </tr>
   <tr>
-    <td>Agency</td>
-    <td>Agency & Sub-Agency</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Progress</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Sub-Commitment Status</td>
+  </tr>
+  <tr style="background-color: #f2f2f2;">
+    <td style="border: 1px solid #ddd; padding: 8px;"></td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Status Update</td>
   </tr>
   <tr>
-    <td>Progress</td>
-    <td>Sub-Commitment Status</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Status Update</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Evidence</td>
+    <td style="border: 1px solid #ddd; padding: 8px;"></td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Evidence</td>
   </tr>
 </table>
 
