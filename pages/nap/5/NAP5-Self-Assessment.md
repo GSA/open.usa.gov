@@ -63,40 +63,15 @@ The 36 commitments are represented as 70 sub-commitments in the online tracker i
 
 With the latest bi-annual update, we added new fields to the tracker to better inform stakeholders about the progress of the commitments, as well as enable the identification of bottlenecks and support strategizing about future actions to ensure the fulfillment of the overarching objectives of NAP 5. The original fields from August 2023 along with the new fields (in italics) added for the February 2024 update are shown in the table below: <br>
 
-<table>
-  <tr>
-    <th>August 2023 Update</th>
-    <th>February 2024 Updates</th>
-  </tr>
-  <tr>
-    <td>Commitment Number</td>
-    <td>Commitment Number</td>
-  </tr>
-  <tr style="background-color: #f2f2f2;">
-    <td>Agency</td>
-    <td>Agency & Sub-Agency</td>
-  </tr>
-  <tr>
-    <td>Progress</td>
-    <td>Sub-Commitment Status</td>
-  </tr>
-  <tr style="background-color: #f2f2f2;">
-    <td></td>
-    <td>Status Update</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Evidence</td>
-  </tr>
-</table>
 
-| August 2023 Update | February 2024 Updates |
-| ------------------ | ---------------------- |
-| Commitment Number | Commitment Number     |
-| Agency            | Agency & Sub-Agency    |
-| Progress          | Sub-Commitment Status  |
-|                  | Status Update          |
-|                  | Evidence               |
+| **August 2023 Update** | **February 2024 Updates** |
+|------------------------|----------------------------|
+| Commitment Number | Commitment Number |
+| Agency | Agency & Sub-Agency  |
+| Progress   | Sub-Commitment Status  |
+|   | Status Update |
+|   | Evidence  |
+
 
 
 The following section offers a series of charts that show various summary perspectives of the 36 commitments outlined in the plan. These visualizations provide an at-a-glance view of the distribution, progress, and thematic areas of the commitments, and are intended to give stakeholders a more intuitive understanding of NAP 5’s scope and status.  <br><br>
