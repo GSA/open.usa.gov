@@ -63,32 +63,41 @@ The 36 commitments are represented as 70 sub-commitments in the online tracker i
 
 With the latest bi-annual update, we added new fields to the tracker to better inform stakeholders about the progress of the commitments, as well as enable the identification of bottlenecks and support strategizing about future actions to ensure the fulfillment of the overarching objectives of NAP 5. The original fields from August 2023 along with the new fields (in italics) added for the February 2024 update are shown in the table below: <br>
 
-<table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
-  <tr style="background-color: #333; color: #fff;">
-    <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">August 2023 Update</th>
-    <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">February 2024 Updates</th>
+<table>
+  <tr>
+    <th>August 2023 Update</th>
+    <th>February 2024 Updates</th>
   </tr>
   <tr>
-    <td style="border: 1px solid #ddd; padding: 8px;">Commitment Number</td>
-    <td style="border: 1px solid #ddd; padding: 8px;">Commitment Number</td>
+    <td>Commitment Number</td>
+    <td>Commitment Number</td>
   </tr>
   <tr style="background-color: #f2f2f2;">
-    <td style="border: 1px solid #ddd; padding: 8px;">Agency</td>
-    <td style="border: 1px solid #ddd; padding: 8px;">Agency & Sub-Agency</td>
+    <td>Agency</td>
+    <td>Agency & Sub-Agency</td>
   </tr>
   <tr>
-    <td style="border: 1px solid #ddd; padding: 8px;">Progress</td>
-    <td style="border: 1px solid #ddd; padding: 8px;">Sub-Commitment Status</td>
+    <td>Progress</td>
+    <td>Sub-Commitment Status</td>
   </tr>
   <tr style="background-color: #f2f2f2;">
-    <td style="border: 1px solid #ddd; padding: 8px;"></td>
-    <td style="border: 1px solid #ddd; padding: 8px;">Status Update</td>
+    <td></td>
+    <td>Status Update</td>
   </tr>
   <tr>
-    <td style="border: 1px solid #ddd; padding: 8px;"></td>
-    <td style="border: 1px solid #ddd; padding: 8px;">Evidence</td>
+    <td></td>
+    <td>Evidence</td>
   </tr>
 </table>
+
+| August 2023 Update | February 2024 Updates |
+| ------------------ | ---------------------- |
+| Commitment Number | Commitment Number     |
+| Agency            | Agency & Sub-Agency    |
+| Progress          | Sub-Commitment Status  |
+|                  | Status Update          |
+|                  | Evidence               |
+
 
 The following section offers a series of charts that show various summary perspectives of the 36 commitments outlined in the plan. These visualizations provide an at-a-glance view of the distribution, progress, and thematic areas of the commitments, and are intended to give stakeholders a more intuitive understanding of NAP 5’s scope and status.  <br><br>
 
