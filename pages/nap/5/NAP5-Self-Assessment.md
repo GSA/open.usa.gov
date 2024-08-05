@@ -5,9 +5,9 @@ title: "Mid-Term Self-Assessment Report of the United States' 5th Open Governmen
 permalink: /national-action-plan/5/NAP5-Self-Assessment/
 ---
 
-_Posted August XX, 2024_
+_Posted August 5, 2024_
 
-Please find below the 5th Open Government National Action Plan of the United States' Mid-Term Self-Assessment Report 2022-2024 that the U.S. Open Government Secretariat submited to the Open Government Partnership on August XX, 2024.
+Please find below the 5th Open Government National Action Plan of the United States' Mid-Term Self-Assessment Report 2022-2024 that the U.S. Open Government Secretariat submited to the Open Government Partnership on August 5, 2024.
 
 
 # 5th Open Government National Action Plan of the United States' Mid-Term Self-Assessment Report 2022-2024
