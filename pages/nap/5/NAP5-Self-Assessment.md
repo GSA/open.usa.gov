@@ -12,6 +12,8 @@ Please find below the 5th Open Government National Action Plan of the United Sta
 
 # 5th Open Government National Action Plan of the United States' Mid-Term Self-Assessment Report 2022-2024
 
+[Download PDF Version of Mid-Term Self-Assessment](/assets/files/NAP5_Mid-Term_Self_Assessment_2024.pdf)
+
 ## Table of Contents
 * [A Letter from GSA Administrator Robin Carnahan](#a-letter-from-gsa-administrator-robin-carnahan)
 * [Action Plan Process](#action-plan-process)
