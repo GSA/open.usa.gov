@@ -7,8 +7,8 @@ permalink: /meeting/July-29-2024-Open-Government-in-Action/
 
 
 * [Meeting slides](/assets/files/07292024_Emerging_Practices_in_Participatory_Algorithm_Design_Presentation.pdf)
-* Meeting Overview & Notes (Coming Soon)
-* Q&A Responces (Coming Soon)
+* [Meeting Overview & Notes](/assets/files/7.29.24_Meeting_Overview.docx)
+* [Q&A Responces](/assets/files/7.29.2024_Q&A.xlsx)
 * Deirdre K. Mulligan Principal Deputy U.S. CTO [Remarks](/assets/files/07292024_D.Mulligan_Remarks_Emerging_Practices_in_Participatory_Algorithm_Design.docx)
 
 ## Agenda
