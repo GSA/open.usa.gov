@@ -24,10 +24,9 @@ permalink: /meeting/november-2021-public-meeting/
 
 ## Recording of the Meeting
 
-<div class="video-container" style="margin-bottom: 5em">
-<iframe src="https://www.youtube.com/embed/O5k4Hs1U9vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
+<div class="video-container">
+<iframe width="640" height="360" src="https://www.youtube.com/embed/kDvKzCJqTIg?list=PLvdwyPgXnxxUZ9uzcRN7M32TvlOZYNF2S" title="11/30/21 - Public Meeting for the US Open Government National Action Plan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div> 
 
 ## OGP Summit: U.S. President Joe Biden Addresses the 2021 OGP Global Summit
 
