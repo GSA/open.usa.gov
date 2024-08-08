@@ -4,8 +4,7 @@ body-class: home
 title: "U.S. Open Government Initiatives"
 permalink: /
 ---
-<br>
-<img src="/assets/files/Open_Govt_Logo.png" alt="The U.S. Open Government Secretariat logo. It has an outline of a blue star, that has the words U.S. Open Government in red text and the word Secretariat in blue text" width="700" height="300"> <br><br>
+<img src="/assets/files/Open_Govt_Logo.png" alt="The U.S. Open Government Secretariat logo. It has an outline of a blue star, that has the words U.S. Open Government in red text and the word Secretariat in blue text" width="700" height="300"> <br>
 
 This site outlines initiatives on openness, transparency and public participation, pursuant to the U.S. National Action Plans. 
 
@@ -13,7 +12,7 @@ This site outlines initiatives on openness, transparency and public participatio
 
 * [Fifth National Action Plan for Open Government (2022-2024)](/national-action-plan/5/) ([Commitment Tracker](/national-action-plan/5/commitments/)) (Updated March 26, 2024)
 
-* [Public Meetings](/national-action-plan/5/schedule-of-open-govt-public-meetings/) (Updated Aug 5, 2024)
+* [Public Meetings](/national-action-plan/5/schedule-of-open-govt-public-meetings/) (Updated Aug 8, 2024)
 
 * Read the [press release](https://www.whitehouse.gov/ostp/news-updates/2022/12/28/white-house-releases-fifth-open-government-national-action-plan-to-advance-a-more-inclusive-responsive-and-accountable-government/) for the Fifth U.S. National Action Plan for Open Government on [WhiteHouse.gov](https://www.whitehouse.gov/ostp/news-updates/2022/12/28/white-house-releases-fifth-open-government-national-action-plan-to-advance-a-more-inclusive-responsive-and-accountable-government/)
 
