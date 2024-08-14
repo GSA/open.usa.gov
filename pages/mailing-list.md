@@ -5,12 +5,12 @@ body-class: about
 permalink: /mailing-list/
 ---
 
-We host two open government listservs. One is open to the public and civil society for the purposes of collaboration and discussion as well as coordination of government & civil society gatherings. The other is a government-only listserv and is primarily to disseminate government specific information on timelines and deadlines for the NAP and offer support as agencies work to achieve their commitments.
+We host two open government listservs. The purpose of the GSA OpenGov-CIV ListServ is for single-directional messages from GSA that keep the public informed on various open government-related announcements, activities, and opportunities to participate. The other is a government-only listserv and is primarily to disseminate government specific information on timelines and deadlines for the NAP and offer support as agencies work to achieve their commitments.
 
-* **Public**: Please subscribe if you are interested in collaboration with federal and civil society open government partners.
+* **Public**: Please subscribe if you are interested staying up to date on open government-related announcements, activities, and opportunities to participate.
 	* Email [opengov-civ-subscribe-request@listserv.gsa.gov](mailto:opengov-civ-subscribe-request@listserv.gsa.gov?subject=Join:OpenGov-Civ) to join. Include “Join: OpenGov-Civ” in the subject line.
 
-* **Government-only**: For those working on NAP commitments or involved in OpenGov initiatives for your agency. Join by emailing the OpenGov listserv.
+* **Government-only**: For those working on NAP commitments or involved in OpenGov initiatives for your agency. Join by emailing the OpenGov listserv. (Limited to people with .gov, / .mil and State, Local, and Tribal members)
 	* Email [opengov-subscribe-request@listserv.gsa.gov](mailto:opengov-subscribe-request@listserv.gsa.gov?subject=Join:OpenGov) to join. Include "Join: OpenGov" in the subject line.
 
 
