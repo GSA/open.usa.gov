@@ -4,14 +4,16 @@ body-class: nap4
 title: "Schedule of Open Govt Public Meetings"
 permalink: /national-action-plan/5/schedule-of-open-govt-public-meetings/
 ---
-_Updated Aug 8 2024_
+<span style="color:red;"> **⚠ Important Notice: This website is moving!** </span> <br>
+Starting **August 29, 2024**, this website will be available on the GSA.gov at a new URL. The new address will be shared here soon. Please check back for updates and be sure to update your bookmarks once the new URL is announced. Thank you for your continued support! <br><br>
+_Updated Aug 16 2024_
 
 Welcome to our Public Meetings page, where you can view details about upcoming events and access records from past gatherings. You’ll find meeting agendas, registration links, and a variety of resources from previous events, including slides, notes, and recordings. We hope these tools will help you stay informed and actively participate in the important discussion around transparency, government accountability, and civil participation in the U.S..<br><br>
 
 
 ### Upcoming Meeting:<br>
 
-**September 17, 2024 - <span style="color:red">SAVE THE DATE</span>** - The U.S. Open Government Secretariat and the City of Austin government officials are organizing an in-person event with the [City of Austin, TX,](https://www.austintexas.gov/department/open-government-information) and local civil society. More information on this session will be coming out in the coming months. <br><br>
+**September 17, 2024** - The U.S. Open Government Secretariat and the City of Austin government officials are organizing an in-person only event with the [City of Austin, TX,](https://www.austintexas.gov/department/open-government-information) and local civil society. The City of Austin will be sending invitations to local civil society organizations in the coming weeks. <br><br>
 
 **December 3-6, 2024** - [Open Government Partnership](https://www.opengovpartnership.org/about/) will  hold an Americas Regional Meeting in Brasilia, Brazil. This is a unique opportunity to bring together the open government and open data communities for four days of exchanging experiences, innovative ideas/initiatives, and recognizing ambitious reforms in the Americas. You can find more information [HERE](https://www.gov.br/cgu/pt-br/acesso-a-informacao/institucional/eventos/america-aberta/open-america).<br><br><br>
 
