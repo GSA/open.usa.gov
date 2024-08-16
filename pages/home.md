@@ -4,9 +4,9 @@ body-class: home
 title: "U.S. Open Government Initiatives"
 permalink: /
 ---
-> **⚠ Important Notice: This website is moving!** <br> Starting **August 29, 2024**, this website will be available on the GSA.gov at a new URL. The new address will be shared here soon. Please check back for updates and be sure to update your bookmarks once the new URL is announced. Thank you for your continued support!
+**⚠ Important Notice: This website is moving!** <br>
+Starting **August 29, 2024**, this website will be available on the GSA.gov at a new URL. The new address will be shared here soon. Please check back for updates and be sure to update your bookmarks once the new URL is announced. Thank you for your continued support!
 
----
 <img src="/assets/files/Open_Govt_Logo.png" alt="The U.S. Open Government Secretariat logo. It has an outline of a blue star, that has the words U.S. Open Government in red text and the word Secretariat in blue text" width="700" height="300"> <br>
 
 This site outlines initiatives on openness, transparency and public participation, pursuant to the U.S. National Action Plans. 
