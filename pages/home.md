@@ -5,7 +5,7 @@ title: "U.S. Open Government Initiatives"
 permalink: /
 ---
 <span style="color:red;"> **⚠ Important Notice: This website is moving!** </span> <br>
-Starting **August 29, 2024**, this website will be available on the GSA.gov at a new URL. The new address will be shared here soon. Please check back for updates and be sure to update your bookmarks once the new URL is announced. Thank you for your continued support! <br>
+Starting **August 29, 2024**, this website will be relocated to [https://www.gsa.gov/usopengov](https://www.gsa.gov/usopengov). Please update your bookmarks, as the current site will be decommissioned shortly after the launch. Legacy URLs may take up to a week to redirect. We appreciate your continued support! <br>
 
 <img src="/assets/files/Open_Govt_Logo.png" alt="The U.S. Open Government Secretariat logo. It has an outline of a blue star, that has the words U.S. Open Government in red text and the word Secretariat in blue text" width="700" height="300"> <br>
 
@@ -15,7 +15,7 @@ This site outlines initiatives on openness, transparency and public participatio
 
 * [Fifth National Action Plan for Open Government (2022-2024)](/national-action-plan/5/) ([Commitment Tracker](/national-action-plan/5/commitments/)) (Updated March 26, 2024)
 
-* [Public Meetings](/national-action-plan/5/schedule-of-open-govt-public-meetings/) (Updated Aug 8, 2024)
+* [Public Meetings](/national-action-plan/5/schedule-of-open-govt-public-meetings/) (Updated Aug 23, 2024)
 
 * Read the [press release](https://www.whitehouse.gov/ostp/news-updates/2022/12/28/white-house-releases-fifth-open-government-national-action-plan-to-advance-a-more-inclusive-responsive-and-accountable-government/) for the Fifth U.S. National Action Plan for Open Government on [WhiteHouse.gov](https://www.whitehouse.gov/ostp/news-updates/2022/12/28/white-house-releases-fifth-open-government-national-action-plan-to-advance-a-more-inclusive-responsive-and-accountable-government/)
 

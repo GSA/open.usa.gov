@@ -5,7 +5,7 @@ body-class: about
 permalink: /mailing-list/
 ---
 <span style="color:red;"> **⚠ Important Notice: This website is moving!** </span> <br>
-Starting **August 29, 2024**, this website will be available on the GSA.gov at a new URL. The new address will be shared here soon. Please check back for updates and be sure to update your bookmarks once the new URL is announced. Thank you for your continued support! <br><br>
+Starting **August 29, 2024**, this website will be relocated to [https://www.gsa.gov/usopengov](https://www.gsa.gov/usopengov). Please update your bookmarks, as the current site will be decommissioned shortly after the launch. Legacy URLs may take up to a week to redirect. We appreciate your continued support! <br><br>
 We host two open government listservs. The purpose of the GSA OpenGov-CIV ListServ is for single-directional messages from GSA that keep the public informed on various open government-related announcements, activities, and opportunities to participate. The other is a government-only listserv and is primarily to disseminate government specific information on timelines and deadlines for the NAP and offer support as agencies work to achieve their commitments.
 
 * **Public**: Please subscribe if you are interested staying up to date on open government-related announcements, activities, and opportunities to participate.
