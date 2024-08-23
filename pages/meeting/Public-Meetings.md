@@ -6,7 +6,7 @@ permalink: /national-action-plan/5/schedule-of-open-govt-public-meetings/
 ---
 <span style="color:red;"> **⚠ Important Notice: This website is moving!** </span> <br>
 Starting **August 29, 2024**, this website will be relocated to [https://www.gsa.gov/usopengov](https://www.gsa.gov/usopengov). Please update your bookmarks, as the current site will be decommissioned shortly after the launch. Legacy URLs may take up to a week to redirect. We appreciate your continued support! <br><br>
-_Updated Aug 16 2024_
+_Updated Aug 23 2024_
 
 Welcome to our Public Meetings page, where you can view details about upcoming events and access records from past gatherings. You’ll find meeting agendas, registration links, and a variety of resources from previous events, including slides, notes, and recordings. We hope these tools will help you stay informed and actively participate in the important discussion around transparency, government accountability, and civil participation in the U.S..<br><br>
 
